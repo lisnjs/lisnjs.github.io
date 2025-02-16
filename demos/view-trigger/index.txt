@@ -10,19 +10,19 @@ b:I[4013,[],""]
 :HL["/_next/static/css/d358bdcefd6b55bb.css","style"]
 :HL["/_next/static/css/e7b960acf8ac87b1.css","style"]
 :HL["/_next/static/css/a26979c94e34724e.css","style"]
-:HL["/_next/static/css/54a09bd3d984f5f2.css","style"]
-0:{"P":null,"b":"Rx8-w22MP-RbiLcejbXn-","p":"","c":["","demos","view-trigger",""],"i":false,"f":[[["",{"children":["(demos)",{"children":["demos",{"children":["view-trigger",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1584ade0da052d1b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__className_22ceb1 lisn-hide-scroll","children":["$","body",null,{"className":"dark-theme","children":["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["(demos)",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:1:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:1:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:1:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:1:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["demos",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children","demos","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["view-trigger",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children","demos","children","view-trigger","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d358bdcefd6b55bb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/e7b960acf8ac87b1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/a26979c94e34724e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/css/54a09bd3d984f5f2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L5",null,{"children":"$L6"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","KqHzCnArmWzV28xP4uo9K",{"children":[["$","$L7",null,{"children":"$L8"}],["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$b","$undefined"],"s":false,"S":true}
+:HL["/_next/static/css/c7ac23bb4071e757.css","style"]
+0:{"P":null,"b":"Zu4zzOYKKtW12AfnoNB5O","p":"","c":["","demos","view-trigger",""],"i":false,"f":[[["",{"children":["(demos)",{"children":["demos",{"children":["view-trigger",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1584ade0da052d1b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__className_22ceb1 lisn-hide-scroll","children":["$","body",null,{"className":"dark-theme","children":["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["(demos)",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:1:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:1:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:1:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:1:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["demos",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children","demos","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["view-trigger",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children","demos","children","view-trigger","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d358bdcefd6b55bb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/e7b960acf8ac87b1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/a26979c94e34724e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/css/c7ac23bb4071e757.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L5",null,{"children":"$L6"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","Ye7oqNcVarxjc3FezI67P",{"children":[["$","$L7",null,{"children":"$L8"}],["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$b","$undefined"],"s":false,"S":true}
 a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 8:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"View trigger | Demos | LISN.js"}],["$","meta","2",{"name":"description","content":"Lightweight and simple. Powerful and flexible. LISN handles all complexities so you can simply handle user gestures, actions and events."}],["$","meta","3",{"name":"keywords","content":"lisn,lisn.js,gesture,interaction,interactive,user action,action trigger,event,scrollbar,pager,slider,carousel,modal,popup,collapsible,sortable"}]]
 6:null
-c:I[9323,["948","static/chunks/948-00f4c89038da35fd.js","362","static/chunks/362-63acf18a12d2a356.js","379","static/chunks/379-b3bdc32aaba16eef.js","138","static/chunks/app/(demos)/demos/view-trigger/page-c8be06f37e060e88.js"],"PopupTriggerComponent"]
-d:I[9323,["948","static/chunks/948-00f4c89038da35fd.js","362","static/chunks/362-63acf18a12d2a356.js","379","static/chunks/379-b3bdc32aaba16eef.js","138","static/chunks/app/(demos)/demos/view-trigger/page-c8be06f37e060e88.js"],"PopupComponent"]
-e:I[9323,["948","static/chunks/948-00f4c89038da35fd.js","362","static/chunks/362-63acf18a12d2a356.js","379","static/chunks/379-b3bdc32aaba16eef.js","138","static/chunks/app/(demos)/demos/view-trigger/page-c8be06f37e060e88.js"],"ModalTriggerComponent"]
-f:I[9323,["948","static/chunks/948-00f4c89038da35fd.js","362","static/chunks/362-63acf18a12d2a356.js","379","static/chunks/379-b3bdc32aaba16eef.js","138","static/chunks/app/(demos)/demos/view-trigger/page-c8be06f37e060e88.js"],"ModalComponent"]
-10:I[4887,["948","static/chunks/948-00f4c89038da35fd.js","362","static/chunks/362-63acf18a12d2a356.js","379","static/chunks/379-b3bdc32aaba16eef.js","138","static/chunks/app/(demos)/demos/view-trigger/page-c8be06f37e060e88.js"],"CodePager"]
-11:I[4887,["948","static/chunks/948-00f4c89038da35fd.js","362","static/chunks/362-63acf18a12d2a356.js","379","static/chunks/379-b3bdc32aaba16eef.js","138","static/chunks/app/(demos)/demos/view-trigger/page-c8be06f37e060e88.js"],"CodePagerPage"]
-19:I[7092,["948","static/chunks/948-00f4c89038da35fd.js","362","static/chunks/362-63acf18a12d2a356.js","379","static/chunks/379-b3bdc32aaba16eef.js","138","static/chunks/app/(demos)/demos/view-trigger/page-c8be06f37e060e88.js"],"default"]
-12:Tef4,"use client";
+c:I[9323,["948","static/chunks/948-00f4c89038da35fd.js","362","static/chunks/362-63acf18a12d2a356.js","379","static/chunks/379-b3bdc32aaba16eef.js","138","static/chunks/app/(demos)/demos/view-trigger/page-71201ec6d731c20e.js"],"PopupTriggerComponent"]
+d:I[9323,["948","static/chunks/948-00f4c89038da35fd.js","362","static/chunks/362-63acf18a12d2a356.js","379","static/chunks/379-b3bdc32aaba16eef.js","138","static/chunks/app/(demos)/demos/view-trigger/page-71201ec6d731c20e.js"],"PopupComponent"]
+e:I[9323,["948","static/chunks/948-00f4c89038da35fd.js","362","static/chunks/362-63acf18a12d2a356.js","379","static/chunks/379-b3bdc32aaba16eef.js","138","static/chunks/app/(demos)/demos/view-trigger/page-71201ec6d731c20e.js"],"ModalTriggerComponent"]
+f:I[9323,["948","static/chunks/948-00f4c89038da35fd.js","362","static/chunks/362-63acf18a12d2a356.js","379","static/chunks/379-b3bdc32aaba16eef.js","138","static/chunks/app/(demos)/demos/view-trigger/page-71201ec6d731c20e.js"],"ModalComponent"]
+10:I[4887,["948","static/chunks/948-00f4c89038da35fd.js","362","static/chunks/362-63acf18a12d2a356.js","379","static/chunks/379-b3bdc32aaba16eef.js","138","static/chunks/app/(demos)/demos/view-trigger/page-71201ec6d731c20e.js"],"CodePager"]
+11:I[4887,["948","static/chunks/948-00f4c89038da35fd.js","362","static/chunks/362-63acf18a12d2a356.js","379","static/chunks/379-b3bdc32aaba16eef.js","138","static/chunks/app/(demos)/demos/view-trigger/page-71201ec6d731c20e.js"],"CodePagerPage"]
+19:I[7092,["948","static/chunks/948-00f4c89038da35fd.js","362","static/chunks/362-63acf18a12d2a356.js","379","static/chunks/379-b3bdc32aaba16eef.js","138","static/chunks/app/(demos)/demos/view-trigger/page-71201ec6d731c20e.js"],"default"]
+12:T1294,"use client";
 import { useEffect, useRef } from "react";
 
 import {
@@ -31,6 +31,7 @@ import {
   LoadTrigger,
   Show,
   AutoHide,
+  ViewData,
 } from "lisn.js";
 import { ScrollbarComponent } from "@lisn.js/react";
 import "lisn.js/scrollbar.css";
@@ -39,47 +40,69 @@ import styles from "./demo.module.css";
 
 export default function Page() {
   const msgRef = useRef(null);
-  const demoRef = useRef(null);
+  const scrollableRef = useRef(null);
+  const triggerRefs = useRef([]);
+  const tabRefs = useRef([]);
+
+  const addTriggerRef = (trigger) => {
+    triggerRefs.current.push(trigger);
+  };
+
+  const addTabRef = (tab) => {
+    tabRefs.current.push(tab);
+  };
+
+  const getTabForTrigger = (trigger: Element) =>
+    tabRefs.current[triggerRefs.current.indexOf(trigger)];
+
+  const getTriggerForTab = (tab: Element) =>
+    triggerRefs.current[tabRefs.current.indexOf(tab)];
+
+  const onTabSelect = (event) => {
+    const tab = event.target;
+    const scrollable = scrollableRef.current.getWidget()?.getScrollable();
+    if (scrollable && tab instanceof Element) {
+      const trigger = getTriggerForTab(tab);
+      if (trigger) {
+        ScrollWatcher.reuse().scrollTo(trigger, {
+          scrollable: scrollable,
+          offset: { top: -5 },
+        });
+      }
+    }
+  };
 
   useEffect(() => {
-    const main = demoRef.current;
-    const scrollWatcher = ScrollWatcher.reuse();
     let viewWatcher;
-    if (main) {
-      const scrollable = main.querySelector(`.${styles.scrollable}`);
-      const tabs = main.querySelectorAll(`.${styles.tab}`);
-      const triggerLines = scrollable.querySelectorAll(`.${styles.trigger}`);
+    const scrollable = scrollableRef.current.getWidget()?.getScrollable();
+    const triggers = [...triggerRefs.current];
 
+    const onViewHandler = (trigger: Element, viewData: ViewData) => {
+      const tab = getTabForTrigger(trigger);
+      if (tab) {
+        if (viewData.views[0] === "at") {
+          tab.classList.add(styles.inview);
+        } else {
+          tab.classList.remove(styles.inview);
+        }
+      }
+    };
+
+    if (scrollable) {
       viewWatcher = ViewWatcher.create({
         root: scrollable,
         rootMargin: "0px",
       });
 
-      for (let i = 0; i < triggerLines.length; i++) {
-        const tab = tabs[i];
-        if (tab) {
-          viewWatcher.onView(triggerLines[i], (e, viewData) => {
-            if (viewData.views[0] === "at") {
-              tab.classList.add(styles.inview);
-            } else {
-              tab.classList.remove(styles.inview);
-            }
-          });
-
-          tab.addEventListener("click", () =>
-            scrollWatcher.scrollTo(triggerLines[i], {
-              scrollable: scrollable,
-              offset: { top: -5 },
-            }),
-          );
-        }
+      for (const trigger of triggers) {
+        viewWatcher.onView(trigger, onViewHandler);
       }
     }
 
     return () => {
       // cleanup
-      if (main) {
-        viewWatcher.noTrackScroll(null, main);
+      for (const trigger of triggers) {
+        viewWatcher?.offView(trigger, onViewHandler);
       }
     };
   }, []);
@@ -107,16 +130,27 @@ export default function Page() {
           Scroll the box
         </p>
 
-        <div ref={demoRef} className={styles.demo}>
+        <div className={styles.demo}>
           <div className={styles.tabs}>
-            <div className={styles.tab}>L</div>
-            <div className={styles.tab}>I</div>
-            <div className={styles.tab}>S</div>
-            <div className={styles.tab}>N</div>
+            <div ref={addTabRef} onClick={onTabSelect} className={styles.tab}>
+              L
+            </div>
+            <div ref={addTabRef} onClick={onTabSelect} className={styles.tab}>
+              I
+            </div>
+            <div ref={addTabRef} onClick={onTabSelect} className={styles.tab}>
+              S
+            </div>
+            <div ref={addTabRef} onClick={onTabSelect} className={styles.tab}>
+              N
+            </div>
           </div>
 
-          <ScrollbarComponent className={styles.scrollable}>
-            <div className={styles.trigger}></div>
+          <ScrollbarComponent
+            widgetRef={scrollableRef}
+            className={styles.scrollable}
+          >
+            <div ref={addTriggerRef} className={styles.trigger}></div>
             <div className={styles.section}>
               <h1>L</h1>
               <h4>Lightweight.</h4>
@@ -128,7 +162,7 @@ export default function Page() {
               </ul>
             </div>
 
-            <div className={styles.trigger}></div>
+            <div ref={addTriggerRef} className={styles.trigger}></div>
             <div className={styles.section}>
               <h1>I</h1>
               <h4>Interactive.</h4>
@@ -140,7 +174,7 @@ export default function Page() {
               </ul>
             </div>
 
-            <div className={styles.trigger}></div>
+            <div ref={addTriggerRef} className={styles.trigger}></div>
             <div className={styles.section}>
               <h1>S</h1>
               <h4>Simple.</h4>
@@ -152,7 +186,7 @@ export default function Page() {
               </ul>
             </div>
 
-            <div className={styles.trigger}></div>
+            <div ref={addTriggerRef} className={styles.trigger}></div>
             <div className={styles.section}>
               <h1>N</h1>
               <h4>No-nonsense.</h4>
