@@ -1,0 +1,427 @@
+1:"$Sreact.fragment"
+2:I[4346,[],""]
+3:I[6168,[],""]
+5:I[1587,[],"OutletBoundary"]
+7:I[1587,[],"MetadataBoundary"]
+9:I[1587,[],"ViewportBoundary"]
+b:I[4013,[],""]
+:HL["/_next/static/media/47cbc4e2adbc5db9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/1584ade0da052d1b.css","style"]
+:HL["/_next/static/css/b2990570677c2aec.css","style"]
+:HL["/_next/static/css/c7ac23bb4071e757.css","style"]
+0:{"P":null,"b":"RVVZAJQNJYF6Hbu3tyV1N","p":"","c":["","demos","pager-tabs",""],"i":false,"f":[[["",{"children":["(demos)",{"children":["demos",{"children":["pager-tabs",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1584ade0da052d1b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__className_22ceb1 lisn-hide-scroll","children":["$","body",null,{"className":"dark-theme","children":["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["(demos)",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:1:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:1:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:1:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:1:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["demos",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children","demos","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["pager-tabs",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children","demos","children","pager-tabs","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b2990570677c2aec.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/c7ac23bb4071e757.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L5",null,{"children":"$L6"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","1pt4218oE8vtpDekbKDHR",{"children":[["$","$L7",null,{"children":"$L8"}],["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$b","$undefined"],"s":false,"S":true}
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Tabbed pager | Demos | LISN.js"}],["$","meta","2",{"name":"description","content":"Lightweight and simple. Powerful and flexible. LISN handles all complexities so you can simply handle user gestures, actions and events."}],["$","meta","3",{"name":"keywords","content":"lisn,lisn.js,gesture,interaction,interactive,user action,action trigger,event,scrollbar,pager,slider,carousel,modal,popup,collapsible,sortable"}]]
+6:null
+c:I[9323,["948","static/chunks/948-00f4c89038da35fd.js","771","static/chunks/771-9e96b5309c15508d.js","362","static/chunks/362-5691646f801910fa.js","328","static/chunks/app/(demos)/demos/pager-tabs/page-8634a04072444479.js"],"PopupTriggerComponent"]
+d:I[9323,["948","static/chunks/948-00f4c89038da35fd.js","771","static/chunks/771-9e96b5309c15508d.js","362","static/chunks/362-5691646f801910fa.js","328","static/chunks/app/(demos)/demos/pager-tabs/page-8634a04072444479.js"],"PopupComponent"]
+e:I[9323,["948","static/chunks/948-00f4c89038da35fd.js","771","static/chunks/771-9e96b5309c15508d.js","362","static/chunks/362-5691646f801910fa.js","328","static/chunks/app/(demos)/demos/pager-tabs/page-8634a04072444479.js"],"ModalTriggerComponent"]
+f:I[9323,["948","static/chunks/948-00f4c89038da35fd.js","771","static/chunks/771-9e96b5309c15508d.js","362","static/chunks/362-5691646f801910fa.js","328","static/chunks/app/(demos)/demos/pager-tabs/page-8634a04072444479.js"],"ModalComponent"]
+10:I[4887,["948","static/chunks/948-00f4c89038da35fd.js","771","static/chunks/771-9e96b5309c15508d.js","362","static/chunks/362-5691646f801910fa.js","328","static/chunks/app/(demos)/demos/pager-tabs/page-8634a04072444479.js"],"CodePager"]
+11:I[4887,["948","static/chunks/948-00f4c89038da35fd.js","771","static/chunks/771-9e96b5309c15508d.js","362","static/chunks/362-5691646f801910fa.js","328","static/chunks/app/(demos)/demos/pager-tabs/page-8634a04072444479.js"],"CodePagerPage"]
+18:I[9018,["948","static/chunks/948-00f4c89038da35fd.js","771","static/chunks/771-9e96b5309c15508d.js","362","static/chunks/362-5691646f801910fa.js","328","static/chunks/app/(demos)/demos/pager-tabs/page-8634a04072444479.js"],"default"]
+12:Ta1f,"use client";
+import {
+  PagerComponent,
+  PagerPageComponent,
+  PagerSwitchComponent,
+} from "@lisn.js/react";
+// Don't load the default pager CSS otherwise we'd have to override quite a few
+// properties. We need to set custom style for everything anyway.
+// import "lisn.js/pager.css";
+
+import Image from "@lib/Image";
+
+import styles from "./demo.module.css";
+
+export default function Page() {
+  return (
+    <>
+      <div className={styles.wrapper}>
+        <PagerComponent className={styles.demo} config={{ useGestures: false }}>
+          <div className={styles.tabs}>
+            <PagerSwitchComponent className={styles.tab}>
+              Limitless
+            </PagerSwitchComponent>
+            <PagerSwitchComponent className={styles.tab}>
+              Imaginative
+            </PagerSwitchComponent>
+            <PagerSwitchComponent className={styles.tab}>
+              Sleek
+            </PagerSwitchComponent>
+            <PagerSwitchComponent className={styles.tab}>
+              Neoteric
+            </PagerSwitchComponent>
+          </div>
+
+          <div className={styles.pages}>
+            <PagerPageComponent className={styles.page}>
+              {/* https://unsplash.com/photos/a-purple-and-green-abstract-background-with-lots-of-lines-pEgsWN0kwbQ */}
+              <Image
+                className={styles.background}
+                src="/images/abstract-4.jpg"
+                alt=""
+              />
+            </PagerPageComponent>
+
+            <PagerPageComponent className={styles.page}>
+              {/* https://unsplash.com/photos/purple-black-and-orange-abstract-paintin-arwTpnIUHdM */}
+              <Image
+                className={styles.background}
+                src="/images/abstract-3.jpg"
+                alt=""
+              />
+            </PagerPageComponent>
+
+            <PagerPageComponent className={styles.page}>
+              {/* https://unsplash.com/photos/a-very-long-line-of-yellow-lines-on-a-black-background-YeUVDKZWSZ4 */}
+              <Image
+                className={styles.background}
+                src="/images/abstract-2.jpg"
+                alt=""
+              />
+            </PagerPageComponent>
+
+            <PagerPageComponent className={styles.page}>
+              {/* https://unsplash.com/photos/a-close-up-of-a-red-and-black-substance-OOFSqPWjCt0 */}
+              <Image
+                className={styles.background}
+                src="/images/abstract-1.jpg"
+                alt=""
+              />
+            </PagerPageComponent>
+          </div>
+        </PagerComponent>
+      </div>
+    </>
+  );
+}
+13:T629,/* Container */
+.wrapper {
+  --animate-duration: 0.4s;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  width: 100dvw;
+  height: 100vh;
+  height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+/* Pager and pages */
+.demo {
+  max-height: 100%;
+  width: 800px;
+  max-width: 100%;
+  z-index: 0;
+}
+
+.pages {
+  height: 400px;
+  box-shadow: var(--lisn-shadow);
+  position: relative;
+}
+
+.page {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  transition-property: opacity;
+  transition-duration: 0.3s;
+  opacity: 0;
+}
+
+.page[data-lisn-page-state="current"] {
+  opacity: 1;
+}
+
+/* Tabs */
+.tabs {
+  position: relative;
+  display: flex;
+  gap: 1vw;
+  margin-bottom: -5px;
+  z-index: -1;
+}
+
+.tab {
+  --btn-color: #14061b;
+  color: #ddd;
+  font-size: 0.8em;
+  font-weight: 600;
+  letter-spacing: 1px;
+  cursor: pointer;
+  background: var(--btn-color);
+  padding: 8px;
+  padding-bottom: 11px;
+  border: none;
+  border-radius: 5px;
+  transform: scale(0.9);
+  transition-property: transform;
+  transition-duration: 0.3s;
+}
+
+.tab:hover {
+  --btn-color: #210d2b;
+}
+
+.tab[data-lisn-page-state="current"] {
+  --btn-color: #392743;
+  color: #fff;
+  transform: scale(1);
+}
+
+.tab:first-letter {
+  font-size: 1.3em;
+  font-weight: 800;
+}
+
+/* Page content */
+.demo,
+.background {
+  border-radius: 15px;
+}
+
+.background {
+  pointer-events: none;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  overflow-clip-margin: unset;
+}
+14:T442,<div id="demo">
+  <div class="tabs">
+    <button class="switch">Limitless</button>
+    <button class="switch">Imaginative</button>
+    <button class="switch">Sleek</button>
+    <button class="switch">Neoteric</button>
+  </div>
+
+  <div class="pages">
+    <div class="page">
+      <!-- https://unsplash.com/photos/a-purple-and-green-abstract-background-with-lots-of-lines-pEgsWN0kwbQ -->
+      <img class="background" src="images/abstract-4.jpg" alt="" />
+    </div>
+
+    <div class="page">
+      <!-- https://unsplash.com/photos/purple-black-and-orange-abstract-paintin-arwTpnIUHdM -->
+      <img class="background" src="images/abstract-3.jpg" alt="" />
+    </div>
+
+    <div class="page">
+      <!-- https://unsplash.com/photos/a-very-long-line-of-yellow-lines-on-a-black-background-YeUVDKZWSZ4 -->
+      <img class="background" src="images/abstract-2.jpg" alt="" />
+    </div>
+
+    <div class="page">
+      <!-- https://unsplash.com/photos/a-close-up-of-a-red-and-black-substance-OOFSqPWjCt0 -->
+      <img class="background" src="images/abstract-1.jpg" alt="" />
+    </div>
+  </div>
+</div>15:T557,/* Pager and pages */
+#demo {
+  max-height: 100%;
+  width: 800px;
+  max-width: 100%;
+  z-index: 0;
+}
+
+#demo .pages {
+  height: 400px;
+  box-shadow: var(--lisn-shadow);
+}
+
+#demo .page {
+  box-shadow: none;
+  transform: none !important;
+  height: 100%;
+  transition-property: opacity;
+  transition-duration: 0.3s;
+  opacity: 0;
+}
+
+#demo .page[data-lisn-page-state="current"] {
+  opacity: 1;
+}
+
+/* Tabs */
+#demo .tabs {
+  position: relative;
+  display: flex;
+  gap: 1vw;
+  margin-bottom: -5px;
+  z-index: -1;
+}
+
+#demo .tabs button {
+  --btn-color: #14061b;
+  color: #ddd;
+  font-size: 0.8em;
+  font-weight: 600;
+  letter-spacing: 1px;
+  cursor: pointer;
+  background: var(--btn-color);
+  padding: 8px;
+  padding-bottom: 11px;
+  border: none;
+  border-radius: 5px;
+  transform: scale(0.9);
+  transition-property: transform;
+  transition-duration: 0.3s;
+}
+
+#demo .tabs button:hover {
+  --btn-color: #210d2b;
+}
+
+#demo .tabs .switch[data-lisn-page-state="current"] {
+  --btn-color: #392743;
+  color: #fff;
+  transform: scale(1);
+}
+
+#demo .switch:first-letter {
+  font-size: 1.3em;
+  font-weight: 800;
+}
+
+/* Page content */
+#demo,
+#demo .page .background {
+  border-radius: 15px;
+}
+
+#demo .page .background {
+  pointer-events: none;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  overflow-clip-margin: unset;
+}16:T4a7,<div id="demo" data-lisn-pager="use-gestures=false">
+  <div class="tabs">
+    <button data-lisn-pager-switch>Limitless</button>
+    <button data-lisn-pager-switch>Imaginative</button>
+    <button data-lisn-pager-switch>Sleek</button>
+    <button data-lisn-pager-switch>Neoteric</button>
+  </div>
+
+  <div class="pages">
+    <div data-lisn-pager-page>
+      <!-- https://unsplash.com/photos/a-purple-and-green-abstract-background-with-lots-of-lines-pEgsWN0kwbQ -->
+      <img class="background" src="images/abstract-4.jpg" alt="" />
+    </div>
+
+    <div data-lisn-pager-page>
+      <!-- https://unsplash.com/photos/purple-black-and-orange-abstract-paintin-arwTpnIUHdM -->
+      <img class="background" src="images/abstract-3.jpg" alt="" />
+    </div>
+
+    <div data-lisn-pager-page>
+      <!-- https://unsplash.com/photos/a-very-long-line-of-yellow-lines-on-a-black-background-YeUVDKZWSZ4 -->
+      <img class="background" src="images/abstract-2.jpg" alt="" />
+    </div>
+
+    <div data-lisn-pager-page>
+      <!-- https://unsplash.com/photos/a-close-up-of-a-red-and-black-substance-OOFSqPWjCt0 -->
+      <img class="background" src="images/abstract-1.jpg" alt="" />
+    </div>
+  </div>
+</div>17:T5bd,/* Pager and pages */
+#demo {
+  max-height: 100%;
+  width: 800px;
+  max-width: 100%;
+  z-index: 0;
+}
+
+#demo .pages {
+  height: 400px;
+  box-shadow: var(--lisn-shadow);
+}
+
+#demo [data-lisn-pager-page] {
+  box-shadow: none;
+  transform: none !important;
+  height: 100%;
+  transition-property: opacity;
+  transition-duration: 0.3s;
+  opacity: 0;
+}
+
+#demo [data-lisn-pager-page][data-lisn-page-state="current"] {
+  opacity: 1;
+}
+
+/* Tabs */
+#demo .tabs {
+  position: relative;
+  display: flex;
+  gap: 1vw;
+  margin-bottom: -5px;
+  z-index: -1;
+}
+
+#demo .tabs button {
+  --btn-color: #14061b;
+  color: #ddd;
+  font-size: 0.8em;
+  font-weight: 600;
+  letter-spacing: 1px;
+  cursor: pointer;
+  background: var(--btn-color);
+  padding: 8px;
+  padding-bottom: 11px;
+  border: none;
+  border-radius: 5px;
+  transform: scale(0.9);
+  transition-property: transform;
+  transition-duration: 0.3s;
+}
+
+#demo .tabs button:hover {
+  --btn-color: #210d2b;
+}
+
+#demo .tabs [data-lisn-pager-switch][data-lisn-page-state="current"] {
+  --btn-color: #392743;
+  color: #fff;
+  transform: scale(1);
+}
+
+#demo [data-lisn-pager-switch]:first-letter {
+  font-size: 1.3em;
+  font-weight: 800;
+}
+
+/* Page content */
+#demo,
+#demo [data-lisn-pager-page] .background {
+  border-radius: 15px;
+}
+
+#demo [data-lisn-pager-page] .background {
+  pointer-events: none;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  overflow-clip-margin: unset;
+}4:[["$","header",null,{"className":"","children":["$","div",null,{"className":"demo-header_header__XHBl7","children":[["$","$Lc",null,{"as":"button","className":"demo-header_popupTrigger__P7aJa","config":{"hover":true},"children":"View code"}],["$","$Ld",null,{"className":"demo-header_menu__PDzWc","config":{"position":"bottom-right"},"children":[["$","div","react",{"children":[["$","$Le",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"React (Next.js)"}],["$","$Lf",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":["$","$L10",null,{"className":"$undefined","tabNames":["TSX","CSS"],"fixedHeight":true,"children":[["$","$L11","TSX",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$12"}]}]}],["$","$L11","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$13"}]}]}]]}]}]]}],["$","div","jsApi",{"children":[["$","$Le",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"JavaScript API"}],["$","$Lf",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":["$","$L10",null,{"className":"$undefined","tabNames":["JavaScript","HTML","CSS"],"fixedHeight":true,"children":[["$","$L11","JavaScript",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"document.addEventListener(\"DOMContentLoaded\", () => {\n  const pager = document.getElementById(\"demo\");\n  const pages = pager.querySelectorAll(\".page\");\n  const switches = pager.querySelectorAll(\".switch\");\n  new LISN.widgets.Pager(pager, {\n    pages,\n    switches,\n    useGestures: false,\n  });\n});"}]}]}],["$","$L11","HTML",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$14"}]}]}],["$","$L11","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$15"}]}]}]]}]}]]}],["$","div","htmlApi",{"children":[["$","$Le",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"HTML API"}],["$","$Lf",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":["$","$L10",null,{"className":"$undefined","tabNames":["HTML","CSS"],"fixedHeight":true,"children":[["$","$L11","HTML",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$16"}]}]}],["$","$L11","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$17"}]}]}]]}]}]]}]]}]]}]}],["$","$L18",null,{}]]

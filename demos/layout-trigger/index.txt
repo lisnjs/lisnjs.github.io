@@ -1,0 +1,204 @@
+1:"$Sreact.fragment"
+2:I[4346,[],""]
+3:I[6168,[],""]
+5:I[1587,[],"OutletBoundary"]
+7:I[1587,[],"MetadataBoundary"]
+9:I[1587,[],"ViewportBoundary"]
+b:I[4013,[],""]
+:HL["/_next/static/media/47cbc4e2adbc5db9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/1584ade0da052d1b.css","style"]
+:HL["/_next/static/css/b2990570677c2aec.css","style"]
+:HL["/_next/static/css/6298bce010de35d2.css","style"]
+:HL["/_next/static/css/53cdcb797e1a8550.css","style"]
+:HL["/_next/static/css/c7ac23bb4071e757.css","style"]
+0:{"P":null,"b":"RVVZAJQNJYF6Hbu3tyV1N","p":"","c":["","demos","layout-trigger",""],"i":false,"f":[[["",{"children":["(demos)",{"children":["demos",{"children":["layout-trigger",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1584ade0da052d1b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__className_22ceb1 lisn-hide-scroll","children":["$","body",null,{"className":"dark-theme","children":["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["(demos)",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:1:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:1:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:1:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:1:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["demos",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children","demos","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["layout-trigger",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children","demos","children","layout-trigger","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b2990570677c2aec.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/6298bce010de35d2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/53cdcb797e1a8550.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/css/c7ac23bb4071e757.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L5",null,{"children":"$L6"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","H0EV44LGiTFWqEjeYQ12y",{"children":[["$","$L7",null,{"children":"$L8"}],["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$b","$undefined"],"s":false,"S":true}
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Layout trigger | Demos | LISN.js"}],["$","meta","2",{"name":"description","content":"Lightweight and simple. Powerful and flexible. LISN handles all complexities so you can simply handle user gestures, actions and events."}],["$","meta","3",{"name":"keywords","content":"lisn,lisn.js,gesture,interaction,interactive,user action,action trigger,event,scrollbar,pager,slider,carousel,modal,popup,collapsible,sortable"}]]
+6:null
+c:I[9323,["948","static/chunks/948-00f4c89038da35fd.js","362","static/chunks/362-5691646f801910fa.js","379","static/chunks/379-102b9afb4b7cf0ae.js","409","static/chunks/app/(demos)/demos/layout-trigger/page-95485b84c7167084.js"],"PopupTriggerComponent"]
+d:I[9323,["948","static/chunks/948-00f4c89038da35fd.js","362","static/chunks/362-5691646f801910fa.js","379","static/chunks/379-102b9afb4b7cf0ae.js","409","static/chunks/app/(demos)/demos/layout-trigger/page-95485b84c7167084.js"],"PopupComponent"]
+e:I[9323,["948","static/chunks/948-00f4c89038da35fd.js","362","static/chunks/362-5691646f801910fa.js","379","static/chunks/379-102b9afb4b7cf0ae.js","409","static/chunks/app/(demos)/demos/layout-trigger/page-95485b84c7167084.js"],"ModalTriggerComponent"]
+f:I[9323,["948","static/chunks/948-00f4c89038da35fd.js","362","static/chunks/362-5691646f801910fa.js","379","static/chunks/379-102b9afb4b7cf0ae.js","409","static/chunks/app/(demos)/demos/layout-trigger/page-95485b84c7167084.js"],"ModalComponent"]
+10:I[4887,["948","static/chunks/948-00f4c89038da35fd.js","362","static/chunks/362-5691646f801910fa.js","379","static/chunks/379-102b9afb4b7cf0ae.js","409","static/chunks/app/(demos)/demos/layout-trigger/page-95485b84c7167084.js"],"CodePager"]
+11:I[4887,["948","static/chunks/948-00f4c89038da35fd.js","362","static/chunks/362-5691646f801910fa.js","379","static/chunks/379-102b9afb4b7cf0ae.js","409","static/chunks/app/(demos)/demos/layout-trigger/page-95485b84c7167084.js"],"CodePagerPage"]
+15:I[7639,["948","static/chunks/948-00f4c89038da35fd.js","362","static/chunks/362-5691646f801910fa.js","379","static/chunks/379-102b9afb4b7cf0ae.js","409","static/chunks/app/(demos)/demos/layout-trigger/page-95485b84c7167084.js"],"default"]
+12:T964,"use client";
+import { useEffect, useRef } from "react";
+
+import { LayoutWatcher, LayoutData, LayoutTrigger, Show } from "lisn.js";
+import "lisn.js/base.css";
+
+import styles from "./demo.module.css";
+
+export default function Page() {
+  const boxRef = useRef(null);
+  const msgRef = useRef(null);
+  const windowLayoutMsgRef = useRef(null);
+  const boxLayoutMsgRef = useRef(null);
+
+  useEffect(() => {
+    // box layout
+    const box = boxRef.current;
+    const msg = boxLayoutMsgRef.current;
+    const handler = (layout: LayoutData) => {
+      if (msg) {
+        msg.innerText =
+          `The resizable box below has a ${formatLayout(layout.device)} width ` +
+          `and a ${formatLayout(layout.aspectRatio)} aspect ratio.`;
+      }
+    };
+    let watcher;
+
+    if (box) {
+      watcher = LayoutWatcher.create({ root: box });
+      watcher.onLayout(handler);
+    }
+
+    return () => {
+      // cleanup
+      watcher?.offLayout(handler);
+    };
+  }, []);
+
+  useEffect(() => {
+    // window layout
+    const msg = windowLayoutMsgRef.current;
+    const handler = (layout: LayoutData) => {
+      if (msg) {
+        msg.innerText =
+          `This is a ${formatLayout(layout.device)} device ` +
+          `with a ${formatLayout(layout.aspectRatio)} aspect ratio.`;
+      }
+    };
+    const watcher = LayoutWatcher.reuse();
+    watcher.onLayout(handler);
+
+    return () => {
+      // cleanup
+      watcher.offLayout(handler);
+    };
+  }, []);
+
+  useEffect(() => {
+    // You could also use LayoutWatcher directly and show/hide the element in
+    // your callback
+    const msg = msgRef.current;
+    let trigger;
+    if (msg) {
+      trigger = new LayoutTrigger(msg, [new Show(msg)], {
+        layout: "max tablet",
+      });
+    }
+
+    return () => {
+      // cleanup
+      trigger?.destroy();
+    };
+  }, []);
+
+  return (
+    <>
+      <div className={styles.wrapper}>
+        <h4 ref={msgRef} className={[styles.msg, "lisn-hide"].join(" ")}>
+          This demo is best viewed on a computer.
+        </h4>
+
+        <div className={styles.demo}>
+          <p ref={windowLayoutMsgRef}></p>
+          <p ref={boxLayoutMsgRef}></p>
+          <div ref={boxRef} className={styles.box}></div>
+        </div>
+      </div>
+    </>
+  );
+}
+
+const layoutMapping = {
+  "mobile-wide": "mobile (landscape)",
+  square: "roughly square",
+};
+
+const formatLayout = (l: string) => (layoutMapping[l] ?? l).replace(/-/g, " ");
+13:T480,document.addEventListener("DOMContentLoaded", () => {
+  const layoutMapping = {
+    "mobile-wide": "mobile (landscape)",
+    square: "roughly square",
+  };
+
+  const formatLayout = (l) => (layoutMapping[l] ?? l).replace(/-/g, " ");
+
+  const main = document.getElementById("demo");
+  const box = main.querySelector(".box");
+  const windowLayout = main.querySelector(".window-layout");
+  const boxLayout = main.querySelector(".box-layout");
+
+  LISN.watchers.LayoutWatcher.reuse().onLayout((layout) => {
+    windowLayout.innerText =
+      `This is a ${formatLayout(layout.device)} device ` +
+      `with a ${formatLayout(layout.aspectRatio)} aspect ratio.`;
+  });
+
+  LISN.watchers.LayoutWatcher.create({ root: box }).onLayout((layout) => {
+    boxLayout.innerText =
+      `The resizable box below has a ${formatLayout(layout.device)} width ` +
+      `and a ${formatLayout(layout.aspectRatio)} aspect ratio.`;
+  });
+
+  const msg = document.getElementById("msg");
+  // or you could use LayoutWatcher directly and show/hide the element in your callback
+  new LISN.triggers.LayoutTrigger(msg, [new LISN.actions.Show(msg)], {
+    layout: "max tablet",
+  });
+});14:T6a0,<h4 data-lisn-on-layout="max tablet @show">
+  This demo is best viewed on a computer.
+</h4>
+
+<div id="demo">
+  <p>
+    This is a
+    <span data-lisn-on-layout="mobile @display">mobile</span>
+    <span data-lisn-on-layout="mobile-wide @display"
+      >mobile (landscape)</span
+    >
+    <span data-lisn-on-layout="tablet @display">tablet</span>
+    <span data-lisn-on-layout="desktop @display">desktop</span>
+    device with a
+    <span data-lisn-on-layout="very-wide @display">very-wide</span>
+    <span data-lisn-on-layout="wide @display">wide</span>
+    <span data-lisn-on-layout="square @display">roughly square</span>
+    <span data-lisn-on-layout="tall @display">tall</span>
+    <span data-lisn-on-layout="very-tall @display">very tall</span>
+    aspect ratio.
+  </p>
+
+  <p>
+    The resizable box below has a
+    <span data-lisn-on-layout="mobile @display +root=next.box"
+      >mobile</span
+    >
+    <span data-lisn-on-layout="mobile-wide @display +root=next.box"
+      >mobile (landscape)</span
+    >
+    <span data-lisn-on-layout="tablet @display +root=next.box"
+      >tablet</span
+    >
+    <span data-lisn-on-layout="desktop @display +root=next.box"
+      >desktop</span
+    >
+    width and a
+    <span data-lisn-on-layout="very-wide @display +root=next.box"
+      >very-wide</span
+    >
+    <span data-lisn-on-layout="wide @display +root=next.box">wide</span>
+    <span data-lisn-on-layout="square @display +root=next.box"
+      >roughly square</span
+    >
+    <span data-lisn-on-layout="tall @display +root=next.box">tall</span>
+    <span data-lisn-on-layout="very-tall @display +root=next.box"
+      >very tall</span
+    >
+    aspect ratio.
+  </p>
+
+  <div class="box"></div>
+</div>4:[["$","header",null,{"className":"","children":["$","div",null,{"className":"demo-header_header__XHBl7","children":[["$","$Lc",null,{"as":"button","className":"demo-header_popupTrigger__P7aJa","config":{"hover":true},"children":"View code"}],["$","$Ld",null,{"className":"demo-header_menu__PDzWc","config":{"position":"bottom-right"},"children":[["$","div","react",{"children":[["$","$Le",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"React (Next.js)"}],["$","$Lf",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":["$","$L10",null,{"className":"$undefined","tabNames":["TSX","CSS"],"fixedHeight":true,"children":[["$","$L11","TSX",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$12"}]}]}],["$","$L11","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"/* Container */\n.wrapper {\n  position: fixed;\n  top: 0;\n  left: 0;\n  width: 100vw;\n  width: 100dvw;\n  height: 100vh;\n  height: 100dvh;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  overflow: hidden;\n}\n\n.demo {\n  text-align: center;\n  width: 100%;\n  padding: 1em;\n}\n\n.box {\n  margin: 0 auto;\n  width: 400px;\n  height: 400px;\n  resize: both;\n  background: #28283f;\n  box-shadow: var(--lisn-shadow);\n  overflow: hidden;\n}\n"}]}]}]]}]}]]}],["$","div","jsApi",{"children":[["$","$Le",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"JavaScript API"}],["$","$Lf",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":["$","$L10",null,{"className":"$undefined","tabNames":["JavaScript","HTML","CSS"],"fixedHeight":true,"children":[["$","$L11","JavaScript",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$13"}]}]}],["$","$L11","HTML",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"<h4 id=\"msg\">This demo is best viewed on a computer.</h4>\n\n<div id=\"demo\">\n  <p class=\"window-layout\"></p>\n  <p class=\"box-layout\"></p>\n  <div class=\"box\"></div>\n</div>"}]}]}],["$","$L11","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"#demo {\n  text-align: center;\n  width: 100%;\n  padding: 1em;\n}\n\n#demo .box {\n  margin: 0 auto;\n  width: 400px;\n  height: 400px;\n  resize: both;\n  background: #28283f;\n  box-shadow: var(--lisn-shadow);\n  overflow: hidden;\n}"}]}]}]]}]}]]}],["$","div","htmlApi",{"children":[["$","$Le",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"HTML API"}],["$","$Lf",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":["$","$L10",null,{"className":"$undefined","tabNames":["HTML","CSS"],"fixedHeight":true,"children":[["$","$L11","HTML",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$14"}]}]}],["$","$L11","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"#demo {\n  text-align: center;\n  width: 100%;\n  padding: 1em;\n}\n\n#demo .box {\n  margin: 0 auto;\n  width: 400px;\n  height: 400px;\n  resize: both;\n  background: #28283f;\n  box-shadow: var(--lisn-shadow);\n  overflow: hidden;\n}"}]}]}]]}]}]]}]]}]]}]}],["$","$L15",null,{}]]

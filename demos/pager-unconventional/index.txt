@@ -1,0 +1,446 @@
+1:"$Sreact.fragment"
+2:I[4346,[],""]
+3:I[6168,[],""]
+5:I[1587,[],"OutletBoundary"]
+7:I[1587,[],"MetadataBoundary"]
+9:I[1587,[],"ViewportBoundary"]
+b:I[4013,[],""]
+:HL["/_next/static/media/47cbc4e2adbc5db9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/1584ade0da052d1b.css","style"]
+:HL["/_next/static/css/b2990570677c2aec.css","style"]
+:HL["/_next/static/css/8a285dc67e2a829d.css","style"]
+:HL["/_next/static/css/062d987d5fbedc64.css","style"]
+:HL["/_next/static/css/c7ac23bb4071e757.css","style"]
+0:{"P":null,"b":"RVVZAJQNJYF6Hbu3tyV1N","p":"","c":["","demos","pager-unconventional",""],"i":false,"f":[[["",{"children":["(demos)",{"children":["demos",{"children":["pager-unconventional",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1584ade0da052d1b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__className_22ceb1 lisn-hide-scroll","children":["$","body",null,{"className":"dark-theme","children":["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["(demos)",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:1:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:1:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:1:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:1:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["demos",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children","demos","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["pager-unconventional",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children","demos","children","pager-unconventional","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b2990570677c2aec.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/8a285dc67e2a829d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/062d987d5fbedc64.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/css/c7ac23bb4071e757.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L5",null,{"children":"$L6"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","iI3XHanE4whmt7vgviD2D",{"children":[["$","$L7",null,{"children":"$L8"}],["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$b","$undefined"],"s":false,"S":true}
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Funky pager | Demos | LISN.js"}],["$","meta","2",{"name":"description","content":"Lightweight and simple. Powerful and flexible. LISN handles all complexities so you can simply handle user gestures, actions and events."}],["$","meta","3",{"name":"keywords","content":"lisn,lisn.js,gesture,interaction,interactive,user action,action trigger,event,scrollbar,pager,slider,carousel,modal,popup,collapsible,sortable"}]]
+6:null
+c:I[9323,["948","static/chunks/948-00f4c89038da35fd.js","771","static/chunks/771-9e96b5309c15508d.js","362","static/chunks/362-5691646f801910fa.js","373","static/chunks/app/(demos)/demos/pager-unconventional/page-477142f7b9f676c9.js"],"PopupTriggerComponent"]
+d:I[9323,["948","static/chunks/948-00f4c89038da35fd.js","771","static/chunks/771-9e96b5309c15508d.js","362","static/chunks/362-5691646f801910fa.js","373","static/chunks/app/(demos)/demos/pager-unconventional/page-477142f7b9f676c9.js"],"PopupComponent"]
+e:I[9323,["948","static/chunks/948-00f4c89038da35fd.js","771","static/chunks/771-9e96b5309c15508d.js","362","static/chunks/362-5691646f801910fa.js","373","static/chunks/app/(demos)/demos/pager-unconventional/page-477142f7b9f676c9.js"],"ModalTriggerComponent"]
+f:I[9323,["948","static/chunks/948-00f4c89038da35fd.js","771","static/chunks/771-9e96b5309c15508d.js","362","static/chunks/362-5691646f801910fa.js","373","static/chunks/app/(demos)/demos/pager-unconventional/page-477142f7b9f676c9.js"],"ModalComponent"]
+10:I[4887,["948","static/chunks/948-00f4c89038da35fd.js","771","static/chunks/771-9e96b5309c15508d.js","362","static/chunks/362-5691646f801910fa.js","373","static/chunks/app/(demos)/demos/pager-unconventional/page-477142f7b9f676c9.js"],"CodePager"]
+11:I[4887,["948","static/chunks/948-00f4c89038da35fd.js","771","static/chunks/771-9e96b5309c15508d.js","362","static/chunks/362-5691646f801910fa.js","373","static/chunks/app/(demos)/demos/pager-unconventional/page-477142f7b9f676c9.js"],"CodePagerPage"]
+16:I[9615,["948","static/chunks/948-00f4c89038da35fd.js","771","static/chunks/771-9e96b5309c15508d.js","362","static/chunks/362-5691646f801910fa.js","373","static/chunks/app/(demos)/demos/pager-unconventional/page-477142f7b9f676c9.js"],"default"]
+12:T8d0,"use client";
+import { useEffect } from "react";
+
+import { SizeWatcher } from "lisn.js";
+import { PagerComponent, PagerPageComponent } from "@lisn.js/react";
+import "lisn.js/pager.css";
+
+import Image from "@lib/Image";
+
+import styles from "./demo.module.css";
+
+export default function Page() {
+  // Track the size of the pager (or equivalently, and for simplicity, in this
+  // case, we'll track the window size since the pager is full screen), so that
+  // we can calculate transforms for several elements.
+  useEffect(() => {
+    const watcher = SizeWatcher.reuse();
+    watcher.trackSize(null, { threshold: 0 });
+    return () => {
+      // cleanup
+      watcher.noTrackSize();
+    };
+  }, []);
+
+  return (
+    <>
+      <div className={[styles.wrapper, "light-theme"].join(" ")}>
+        <PagerComponent className={styles.demo} config={{ fullscreen: true }}>
+          {/* https://www.pexels.com/photo/yellow-black-and-purple-colored-papers-2457284/ */}
+          <PagerPageComponent className={styles.page} data-slide="intro">
+            <h1>Scroll down</h1>
+          </PagerPageComponent>
+
+          <PagerPageComponent className={styles.page} data-slide="think">
+            <Image
+              className={styles.background}
+              src="/images/pager-think.png"
+              alt=""
+            />
+            <h1>Think</h1>
+          </PagerPageComponent>
+
+          <PagerPageComponent className={styles.page} data-slide="outside">
+            <Image
+              className={styles.background}
+              src="/images/pager-outside.png"
+              alt=""
+            />
+            <h1>Outside</h1>
+          </PagerPageComponent>
+
+          <PagerPageComponent className={styles.page} data-slide="the">
+            <Image
+              className={styles.background}
+              src="/images/pager-the.png"
+              alt=""
+            />
+            <h1>The</h1>
+          </PagerPageComponent>
+
+          <PagerPageComponent className={styles.page} data-slide="page">
+            <Image
+              className={styles.background}
+              src="/images/pager-page.png"
+              alt=""
+            />
+            <h1>Page.</h1>
+          </PagerPageComponent>
+        </PagerComponent>
+      </div>
+    </>
+  );
+}
+13:T900,/* Container */
+.wrapper {
+  --animate-duration: 0.4s;
+  background: var(--bg-color);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  width: 100dvw;
+  height: 100vh;
+  height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+/* Individual pages */
+.background {
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.page[data-slide] {
+  box-shadow: none;
+}
+
+.page[data-slide="think"] {
+  z-index: 4;
+}
+
+.page[data-slide="think"][data-lisn-page-state="next"] {
+  transform: translate3d(0px, calc(-100% - 10px), 0px);
+}
+
+.page[data-slide="outside"] {
+  z-index: 3;
+}
+
+.page[data-slide="the"] {
+  z-index: 2;
+}
+
+.page[data-slide="the"][data-lisn-page-state="next"] {
+  transform: translate3d(calc(-100% - 10px), calc(-100% - 10px), 0px);
+}
+
+.page[data-slide="page"] {
+  z-index: 1;
+}
+
+.page[data-slide="page"][data-lisn-page-state="next"] {
+  transform: translate3d(calc(100% + 10px), 0px, 0px);
+}
+
+/* Page content */
+.page[data-slide] h1 {
+  width: max-content;
+  font-size: clamp(28px, calc(20px + 7vw), 90px);
+  text-transform: uppercase;
+  position: absolute;
+  margin: 0;
+  transition-property: transform;
+  transition-duration: 0.1s;
+}
+
+.page[data-slide="intro"] h1 {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: clamp(12px, calc(6px + 5vw), 30px);
+  text-transform: none;
+  color: #233a43;
+}
+
+.page[data-slide="intro"] {
+  transition-property: opacity, transform;
+  opacity: 1;
+  transform: scale(1);
+}
+
+.page[data-slide="intro"][data-lisn-page-state="covered"] {
+  opacity: 0;
+  transform: scale(0);
+}
+
+.page[data-slide="think"] h1 {
+  top: 3vh;
+  left: calc(50vw - 3vh);
+  color: #ffddff;
+}
+
+.page[data-slide="outside"] h1 {
+  transform: rotate(-90deg);
+  transform-origin: 0% 50%;
+  bottom: -2vw;
+  left: 7vw;
+  color: #4e3e00;
+}
+
+.page[data-slide="the"] h1 {
+  top: 10vh;
+  left: calc(10vw - 3vh);
+  color: #233a43;
+  transform: rotateZ(
+    calc(
+      100deg * var(--lisn-js--window-border-height, 1) /
+        (
+          var(--lisn-js--window-border-width, 1) +
+            var(--lisn-js--window-border-height, 1)
+        )
+    )
+  );
+}
+
+.page[data-slide="page"] h1 {
+  bottom: 25vh;
+  right: 7vw;
+  color: #ddd;
+}
+14:T73b,:root {
+  --animate-duration: 0.4s;
+}
+
+/* Individual pages */
+#demo .page {
+  box-shadow: none;
+}
+
+#demo .page .background {
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+#demo .w-think {
+  z-index: 4;
+}
+
+#demo .w-think[data-lisn-page-state="next"] {
+  transform: translate3d(0px, calc(-100% - 10px), 0px);
+}
+
+#demo .w-outside {
+  z-index: 3;
+}
+
+#demo .w-the {
+  z-index: 2;
+}
+
+#demo .w-the[data-lisn-page-state="next"] {
+  transform: translate3d(calc(-100% - 10px), calc(-100% - 10px), 0px);
+}
+
+#demo .w-page {
+  z-index: 1;
+}
+
+#demo .w-page[data-lisn-page-state="next"] {
+  transform: translate3d(calc(100% + 10px), 0px, 0px);
+}
+
+/* Page content */
+#demo .page h1 {
+  width: max-content;
+  font-size: clamp(28px, calc(20px + 7vw), 90px);
+  text-transform: uppercase;
+  position: absolute;
+  margin: 0;
+  transition-property: transform;
+  transition-duration: 0.1s;
+}
+
+#demo .intro h1 {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: clamp(12px, calc(6px + 5vw), 30px);
+  text-transform: none;
+  color: #233a43;
+}
+
+#demo .intro {
+  transition-property: opacity, transform;
+  opacity: 1;
+  transform: scale(1);
+}
+
+#demo .intro[data-lisn-page-state="covered"] {
+  opacity: 0;
+  transform: scale(0);
+}
+
+#demo .w-think h1 {
+  top: 3vh;
+  left: calc(50vw - 3vh);
+  color: #ffddff;
+}
+
+#demo .w-outside h1 {
+  transform: rotate(-90deg);
+  transform-origin: 0% 50%;
+  bottom: -2vw;
+  left: 7vw;
+  color: #4e3e00;
+}
+
+#demo .w-the h1 {
+  top: 10vh;
+  left: calc(10vw - 3vh);
+  color: #233a43;
+  transform: rotateZ(
+    calc(
+      100deg * var(--lisn-js--border-height, 1) /
+        (
+          var(--lisn-js--border-width, 1) +
+            var(--lisn-js--border-height, 1)
+        )
+    )
+  );
+}
+
+#demo .w-page h1 {
+  bottom: 25vh;
+  right: 7vw;
+  color: #ddd;
+}15:T73b,:root {
+  --animate-duration: 0.4s;
+}
+
+/* Individual pages */
+#demo .page {
+  box-shadow: none;
+}
+
+#demo .page .background {
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+#demo .w-think {
+  z-index: 4;
+}
+
+#demo .w-think[data-lisn-page-state="next"] {
+  transform: translate3d(0px, calc(-100% - 10px), 0px);
+}
+
+#demo .w-outside {
+  z-index: 3;
+}
+
+#demo .w-the {
+  z-index: 2;
+}
+
+#demo .w-the[data-lisn-page-state="next"] {
+  transform: translate3d(calc(-100% - 10px), calc(-100% - 10px), 0px);
+}
+
+#demo .w-page {
+  z-index: 1;
+}
+
+#demo .w-page[data-lisn-page-state="next"] {
+  transform: translate3d(calc(100% + 10px), 0px, 0px);
+}
+
+/* Page content */
+#demo .page h1 {
+  width: max-content;
+  font-size: clamp(28px, calc(20px + 7vw), 90px);
+  text-transform: uppercase;
+  position: absolute;
+  margin: 0;
+  transition-property: transform;
+  transition-duration: 0.1s;
+}
+
+#demo .intro h1 {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: clamp(12px, calc(6px + 5vw), 30px);
+  text-transform: none;
+  color: #233a43;
+}
+
+#demo .intro {
+  transition-property: opacity, transform;
+  opacity: 1;
+  transform: scale(1);
+}
+
+#demo .intro[data-lisn-page-state="covered"] {
+  opacity: 0;
+  transform: scale(0);
+}
+
+#demo .w-think h1 {
+  top: 3vh;
+  left: calc(50vw - 3vh);
+  color: #ffddff;
+}
+
+#demo .w-outside h1 {
+  transform: rotate(-90deg);
+  transform-origin: 0% 50%;
+  bottom: -2vw;
+  left: 7vw;
+  color: #4e3e00;
+}
+
+#demo .w-the h1 {
+  top: 10vh;
+  left: calc(10vw - 3vh);
+  color: #233a43;
+  transform: rotateZ(
+    calc(
+      100deg * var(--lisn-js--border-height, 1) /
+        (
+          var(--lisn-js--border-width, 1) +
+            var(--lisn-js--border-height, 1)
+        )
+    )
+  );
+}
+
+#demo .w-page h1 {
+  bottom: 25vh;
+  right: 7vw;
+  color: #ddd;
+}4:[["$","header",null,{"className":"","children":["$","div",null,{"className":"demo-header_header__XHBl7","children":[["$","$Lc",null,{"as":"button","className":"demo-header_popupTrigger__P7aJa","config":{"hover":true},"children":"View code"}],["$","$Ld",null,{"className":"demo-header_menu__PDzWc","config":{"position":"bottom-right"},"children":[["$","div","react",{"children":[["$","$Le",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"React (Next.js)"}],["$","$Lf",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":["$","$L10",null,{"className":"$undefined","tabNames":["TSX","CSS"],"fixedHeight":true,"children":[["$","$L11","TSX",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$12"}]}]}],["$","$L11","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$13"}]}]}]]}]}]]}],["$","div","jsApi",{"children":[["$","$Le",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"JavaScript API"}],["$","$Lf",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":["$","$L10",null,{"className":"$undefined","tabNames":["JavaScript","HTML","CSS"],"fixedHeight":true,"children":[["$","$L11","JavaScript",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"document.addEventListener(\"DOMContentLoaded\", () => {\n  const pager = document.getElementById(\"demo\");\n  const pages = pager.querySelectorAll(\".page\");\n  new LISN.widgets.Pager(pager, {\n    pages,\n    fullscreen: true,\n  });\n\n  // Track the size of the pager (or equivalently we could track the\n  // window size since the pager is full screen), so that we can\n  // calculate transforms for several elements.\n  LISN.watchers.SizeWatcher.reuse().trackSize(null, {\n    threshold: 0,\n    target: pager,\n  });\n});"}]}]}],["$","$L11","HTML",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"<div id=\"demo\">\n  <!-- https://www.pexels.com/photo/yellow-black-and-purple-colored-papers-2457284/ -->\n  <div class=\"page intro\">\n    <h1>Scroll down</h1>\n  </div>\n\n  <div class=\"page w-think\">\n    <img class=\"background\" src=\"images/pager-think.png\" alt=\"\" />\n    <h1>Think</h1>\n  </div>\n\n  <div class=\"page w-outside\">\n    <img class=\"background\" src=\"images/pager-outside.png\" alt=\"\" />\n    <h1>Outside</h1>\n  </div>\n\n  <div class=\"page w-the\">\n    <img class=\"background\" src=\"images/pager-the.png\" alt=\"\" />\n    <h1>The</h1>\n  </div>\n\n  <div class=\"page w-page\">\n    <img class=\"background\" src=\"images/pager-page.png\" alt=\"\" />\n    <h1>Page.</h1>\n  </div>\n</div>"}]}]}],["$","$L11","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$14"}]}]}]]}]}]]}],["$","div","htmlApi",{"children":[["$","$Le",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"HTML API"}],["$","$Lf",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":["$","$L10",null,{"className":"$undefined","tabNames":["HTML","CSS"],"fixedHeight":true,"children":[["$","$L11","HTML",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"<div id=\"demo\" data-lisn-track-size data-lisn-pager=\"fullscreen\">\n  <!-- https://www.pexels.com/photo/yellow-black-and-purple-colored-papers-2457284/ -->\n  <div class=\"page intro\">\n    <h1>Scroll down</h1>\n  </div>\n\n  <div class=\"page w-think\">\n    <img class=\"background\" src=\"images/pager-think.png\" alt=\"\" />\n    <h1>Think</h1>\n  </div>\n\n  <div class=\"page w-outside\">\n    <img class=\"background\" src=\"images/pager-outside.png\" alt=\"\" />\n    <h1>Outside</h1>\n  </div>\n\n  <div class=\"page w-the\">\n    <img class=\"background\" src=\"images/pager-the.png\" alt=\"\" />\n    <h1>The</h1>\n  </div>\n\n  <div class=\"page w-page\">\n    <img class=\"background\" src=\"images/pager-page.png\" alt=\"\" />\n    <h1>Page.</h1>\n  </div>\n</div>"}]}]}],["$","$L11","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$15"}]}]}]]}]}]]}]]}]]}]}],["$","$L16",null,{}]]
