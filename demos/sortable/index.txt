@@ -8,84 +8,23 @@ a:I[1587,[],"ViewportBoundary"]
 c:I[4013,[],""]
 :HL["/_next/static/media/47cbc4e2adbc5db9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/2cd253a755792af7.css","style"]
-:HL["/_next/static/css/f2ade504ddd879a3.css","style"]
-:HL["/_next/static/css/1c3a0da2ad6a8828.css","style"]
-:HL["/_next/static/css/7c3d48acb448fc6c.css","style"]
+:HL["/_next/static/css/c876aa9f8dc62d08.css","style"]
+:HL["/_next/static/css/0edddf5bd6dc1454.css","style"]
+:HL["/_next/static/css/6be4c88a6e107518.css","style"]
 :HL["/_next/static/css/3943b4e0ab62db46.css","style"]
-0:{"P":null,"b":"88PL2ay3N34VcYeKGbLCW","p":"","c":["","demos","sortable",""],"i":false,"f":[[["",{"children":["(demos)",{"children":["demos",{"children":["sortable",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2cd253a755792af7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"className":"__className_22ceb1 lisn-hide-scroll","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],{"children":["(demos)",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["demos",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children","demos","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["sortable",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children","demos","children","sortable","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f2ade504ddd879a3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/1c3a0da2ad6a8828.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/7c3d48acb448fc6c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/css/3943b4e0ab62db46.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","BJpnSyoaBinpTUnydT_Sk",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"Q-HTWN3_kHhX5jzO_AaO3","p":"","c":["","demos","sortable",""],"i":false,"f":[[["",{"children":["(demos)",{"children":["demos",{"children":["sortable",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2cd253a755792af7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"className":"__className_22ceb1 lisn-hide-scroll","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],{"children":["(demos)",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["demos",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children","demos","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["sortable",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children","demos","children","sortable","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c876aa9f8dc62d08.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/0edddf5bd6dc1454.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/6be4c88a6e107518.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/css/3943b4e0ab62db46.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","TKx9clefscVoAp0R-vTpV",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
 b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Sortable | Demos | LISN.js"}],["$","meta","2",{"name":"description","content":"Lightweight and simple. Powerful and flexible. LISN handles all complexities so you can simply handle user gestures, actions and events."}],["$","meta","3",{"name":"keywords","content":"lisn,lisn.js,gesture,interaction,interactive,user action,action trigger,event,scrollbar,pager,slider,carousel,modal,popup,collapsible,sortable,same-height,equal-height,widgets"}],["$","meta","4",{"property":"og:title","content":"LISN.js"}],["$","meta","5",{"property":"og:description","content":"Lightweight and simple. Powerful and flexible. LISN handles all complexities so you can simply handle user gestures, actions and events."}],["$","meta","6",{"property":"og:url","content":"https://lisnjs.github.io/"}],["$","meta","7",{"property":"og:site_name","content":"LISN.js"}],["$","meta","8",{"property":"og:image","content":"https://lisnjs.github.io/cover.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"600"}],["$","meta","11",{"property":"og:image:alt","content":"LISN.js preview image"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"LISN.js"}],["$","meta","15",{"name":"twitter:description","content":"Lightweight and simple. Powerful and flexible. LISN handles all complexities so you can simply handle user gestures, actions and events."}],["$","meta","16",{"name":"twitter:image","content":"https://lisnjs.github.io/cover.jpg"}],["$","meta","17",{"name":"twitter:image:width","content":"1200"}],["$","meta","18",{"name":"twitter:image:height","content":"600"}],["$","meta","19",{"name":"twitter:image:alt","content":"LISN.js preview image"}],["$","link","20",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"64x64"}]]
 7:null
-d:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-03f25a56d610b540.js","78","static/chunks/app/(demos)/demos/sortable/page-c59b31c35e40d3fd.js"],"PopupTriggerComponent"]
-e:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-03f25a56d610b540.js","78","static/chunks/app/(demos)/demos/sortable/page-c59b31c35e40d3fd.js"],"PopupComponent"]
-f:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-03f25a56d610b540.js","78","static/chunks/app/(demos)/demos/sortable/page-c59b31c35e40d3fd.js"],"ModalTriggerComponent"]
-10:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-03f25a56d610b540.js","78","static/chunks/app/(demos)/demos/sortable/page-c59b31c35e40d3fd.js"],"ModalComponent"]
-11:I[4887,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-03f25a56d610b540.js","78","static/chunks/app/(demos)/demos/sortable/page-c59b31c35e40d3fd.js"],"CodePager"]
-12:I[4887,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-03f25a56d610b540.js","78","static/chunks/app/(demos)/demos/sortable/page-c59b31c35e40d3fd.js"],"CodePagerPage"]
-17:I[9308,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-03f25a56d610b540.js","78","static/chunks/app/(demos)/demos/sortable/page-c59b31c35e40d3fd.js"],"SortableComponent"]
-18:I[9308,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-03f25a56d610b540.js","78","static/chunks/app/(demos)/demos/sortable/page-c59b31c35e40d3fd.js"],"SortableItemComponent"]
-13:T87b,import { SortableComponent, SortableItemComponent } from "@lisn.js/react";
-import "lisn.js/sortable.css";
-
-import styles from "./demo.module.css";
-
-export default function Page() {
-  return (
-    <>
-      <div className={styles.wrapper}>
-        <SortableComponent className={styles.demo} config={{ mode: "swap" }}>
-          <SortableItemComponent
-            className={[styles.box, styles.r1, styles.c4].join(" ")}
-          >
-            <span className={styles.letter}>N</span>
-          </SortableItemComponent>
-          <SortableItemComponent
-            className={[styles.box, styles.r2, styles.c2].join(" ")}
-          >
-            <span className={styles.letter}>I</span>
-          </SortableItemComponent>
-          <SortableItemComponent
-            className={[styles.box, styles.r1, styles.c2].join(" ")}
-          >
-            <span className={styles.letter}>I</span>
-          </SortableItemComponent>
-          <SortableItemComponent
-            className={[styles.box, styles.r2, styles.c1].join(" ")}
-          >
-            <span className={styles.letter}>L</span>
-          </SortableItemComponent>
-
-          <div>{/* dummy */}</div>
-
-          <SortableItemComponent
-            className={[styles.box, styles.r2, styles.c4].join(" ")}
-          >
-            <span className={styles.letter}>N</span>
-          </SortableItemComponent>
-          <SortableItemComponent
-            className={[styles.box, styles.r1, styles.c1].join(" ")}
-          >
-            <span className={styles.letter}>L</span>
-          </SortableItemComponent>
-          <SortableItemComponent
-            className={[styles.box, styles.r2, styles.c3].join(" ")}
-          >
-            <span className={styles.letter}>S</span>
-          </SortableItemComponent>
-          <SortableItemComponent
-            className={[styles.box, styles.r1, styles.c3].join(" ")}
-          >
-            <span className={styles.letter}>S</span>
-          </SortableItemComponent>
-
-          <div className={[styles.line, styles.lineV].join(" ")}></div>
-          <div className={[styles.line, styles.lineH].join(" ")}></div>
-        </SortableComponent>
-      </div>
-    </>
-  );
-}
-14:T5d4,/* Container */
+d:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-03f25a56d610b540.js","78","static/chunks/app/(demos)/demos/sortable/page-a29e0699a3c172cb.js"],"PopupTriggerComponent"]
+e:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-03f25a56d610b540.js","78","static/chunks/app/(demos)/demos/sortable/page-a29e0699a3c172cb.js"],"PopupComponent"]
+f:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-03f25a56d610b540.js","78","static/chunks/app/(demos)/demos/sortable/page-a29e0699a3c172cb.js"],"ModalTriggerComponent"]
+10:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-03f25a56d610b540.js","78","static/chunks/app/(demos)/demos/sortable/page-a29e0699a3c172cb.js"],"ModalComponent"]
+11:I[4887,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-03f25a56d610b540.js","78","static/chunks/app/(demos)/demos/sortable/page-a29e0699a3c172cb.js"],"CodePager"]
+12:I[4887,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-03f25a56d610b540.js","78","static/chunks/app/(demos)/demos/sortable/page-a29e0699a3c172cb.js"],"CodePagerPage"]
+18:I[9308,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-03f25a56d610b540.js","78","static/chunks/app/(demos)/demos/sortable/page-a29e0699a3c172cb.js"],"SortableComponent"]
+19:I[9308,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-03f25a56d610b540.js","78","static/chunks/app/(demos)/demos/sortable/page-a29e0699a3c172cb.js"],"SortableItemComponent"]
+13:T5d4,/* Container */
 .wrapper {
   position: fixed;
   top: 0;
@@ -176,7 +115,159 @@ export default function Page() {
   ~ .lineH {
   width: 73px;
 }
-15:T510,/* Grid */
+14:T87b,import { SortableComponent, SortableItemComponent } from "@lisn.js/react";
+import "lisn.js/sortable.css";
+
+import styles from "./demo.module.css";
+
+export default function Page() {
+  return (
+    <>
+      <div className={styles.wrapper}>
+        <SortableComponent className={styles.demo} config={{ mode: "swap" }}>
+          <SortableItemComponent
+            className={[styles.box, styles.r1, styles.c4].join(" ")}
+          >
+            <span className={styles.letter}>N</span>
+          </SortableItemComponent>
+          <SortableItemComponent
+            className={[styles.box, styles.r2, styles.c2].join(" ")}
+          >
+            <span className={styles.letter}>I</span>
+          </SortableItemComponent>
+          <SortableItemComponent
+            className={[styles.box, styles.r1, styles.c2].join(" ")}
+          >
+            <span className={styles.letter}>I</span>
+          </SortableItemComponent>
+          <SortableItemComponent
+            className={[styles.box, styles.r2, styles.c1].join(" ")}
+          >
+            <span className={styles.letter}>L</span>
+          </SortableItemComponent>
+
+          <div>{/* dummy */}</div>
+
+          <SortableItemComponent
+            className={[styles.box, styles.r2, styles.c4].join(" ")}
+          >
+            <span className={styles.letter}>N</span>
+          </SortableItemComponent>
+          <SortableItemComponent
+            className={[styles.box, styles.r1, styles.c1].join(" ")}
+          >
+            <span className={styles.letter}>L</span>
+          </SortableItemComponent>
+          <SortableItemComponent
+            className={[styles.box, styles.r2, styles.c3].join(" ")}
+          >
+            <span className={styles.letter}>S</span>
+          </SortableItemComponent>
+          <SortableItemComponent
+            className={[styles.box, styles.r1, styles.c3].join(" ")}
+          >
+            <span className={styles.letter}>S</span>
+          </SortableItemComponent>
+
+          <div className={[styles.line, styles.lineV].join(" ")}></div>
+          <div className={[styles.line, styles.lineH].join(" ")}></div>
+        </SortableComponent>
+      </div>
+    </>
+  );
+}
+15:T5d4,/* Container */
+.wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  width: 100dvw;
+  height: 100vh;
+  height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+/* Grid */
+.demo {
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  grid-template-rows: repeat(2, 1fr) 0px;
+  grid-template-columns: repeat(4, 1fr) 0px;
+  background: var(--text-color-lighter);
+  box-shadow: var(--text-color) 0px 0px 14px -3px;
+}
+
+/* Grid box and content */
+.box {
+  background: var(--bg-color-lighter);
+  width: 75px;
+  height: 75px;
+  text-align: center;
+  color: var(--text-color-lighter);
+  font-family: "Roboto Mono", ui-monospace, monospace, sans-serif;
+  font-size: 100px;
+  line-height: 1.5em;
+  position: relative;
+  overflow: hidden;
+  margin: 0 -1px;
+}
+
+.box .letter {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+
+.box.r2 .letter {
+  transform: translate(-50%, -50%);
+}
+
+/* Dummies to create a gap */
+.line {
+  transition-property: width, height;
+  transition-duration: 1.5s;
+}
+
+.lineH {
+  width: 95px;
+}
+
+.lineV {
+  height: 95px;
+}
+
+/* When complete (ordered) */
+.box.r1.c1
+  + .box.r1.c2
+  + .box.r1.c3
+  + .box.r1.c4
+  ~ .box.r2.c1
+  + .box.r2.c2
+  + .box.r2.c3
+  + .box.r2.c4
+  + .lineV {
+  height: 75px;
+}
+
+.box.r1.c1
+  + .box.r1.c2
+  + .box.r1.c3
+  + .box.r1.c4
+  ~ .box.r2.c1
+  + .box.r2.c2
+  + .box.r2.c3
+  + .box.r2.c4
+  ~ .lineH {
+  width: 73px;
+}
+16:T510,/* Grid */
 #demo {
   display: grid;
   justify-items: center;
@@ -252,7 +343,7 @@ export default function Page() {
   + .box.r2.c4
   ~ .line-h {
   width: 73px;
-}16:T510,/* Grid */
+}17:T510,/* Grid */
 #demo {
   display: grid;
   justify-items: center;
@@ -328,4 +419,4 @@ export default function Page() {
   + .box.r2.c4
   ~ .line-h {
   width: 73px;
-}5:[["$","header",null,{"className":"","children":["$","div",null,{"className":"demo-header_header__XHBl7","children":[["$","$Ld",null,{"as":"button","className":"demo-header_popupTrigger__P7aJa","config":{"hover":true},"children":"View code"}],["$","$Le",null,{"className":"demo-header_menu__PDzWc","config":{"position":"bottom-right"},"children":[["$","div","react",{"children":[["$","$Lf",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"React (Next.js)"}],["$","$L10",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":[null,["$","$L11",null,{"className":"$undefined","tabNames":["TSX","CSS"],"fixedHeight":true,"children":[["$","$L12","TSX",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$13"}]}]}],["$","$L12","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$14"}]}]}]]}]]}]]}],["$","div","jsApi",{"children":[["$","$Lf",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"JavaScript API"}],["$","$L10",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":[null,["$","$L11",null,{"className":"$undefined","tabNames":["JavaScript","HTML","CSS"],"fixedHeight":true,"children":[["$","$L12","JavaScript",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"document.addEventListener(\"DOMContentLoaded\", () => {\n  const sortable = document.getElementById(\"demo\");\n  const items = sortable.querySelectorAll(\".box\");\n  new LISN.widgets.Sortable(sortable, {\n    items,\n    mode: \"swap\",\n  });\n});"}]}]}],["$","$L12","HTML",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"<div id=\"demo\">\n  <div class=\"box r1 c4\"><span class=\"letter\">N</span></div>\n  <div class=\"box r2 c2\"><span class=\"letter\">I</span></div>\n  <div class=\"box r1 c2\"><span class=\"letter\">I</span></div>\n  <div class=\"box r2 c1\"><span class=\"letter\">L</span></div>\n\n  <div></div>\n\n  <div class=\"box r2 c4\"><span class=\"letter\">N</span></div>\n  <div class=\"box r1 c1\"><span class=\"letter\">L</span></div>\n  <div class=\"box r2 c3\"><span class=\"letter\">S</span></div>\n  <div class=\"box r1 c3\"><span class=\"letter\">S</span></div>\n\n  <div class=\"line line-v\"></div>\n  <div class=\"line line-h\"></div>\n</div>"}]}]}],["$","$L12","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$15"}]}]}]]}]]}]]}],["$","div","htmlApi",{"children":[["$","$Lf",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"HTML API"}],["$","$L10",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":[null,["$","$L11",null,{"className":"$undefined","tabNames":["HTML","CSS"],"fixedHeight":true,"children":[["$","$L12","HTML",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"<div id=\"demo\" data-lisn-sortable=\"mode=swap\">\n  <div class=\"box r1 c4\" data-lisn-sortable-item>\n    <span class=\"letter\">N</span>\n  </div>\n  <div class=\"box r2 c2\" data-lisn-sortable-item>\n    <span class=\"letter\">I</span>\n  </div>\n  <div class=\"box r1 c2\" data-lisn-sortable-item>\n    <span class=\"letter\">I</span>\n  </div>\n  <div class=\"box r2 c1\" data-lisn-sortable-item>\n    <span class=\"letter\">L</span>\n  </div>\n\n  <div></div>\n\n  <div class=\"box r2 c4\" data-lisn-sortable-item>\n    <span class=\"letter\">N</span>\n  </div>\n  <div class=\"box r1 c1\" data-lisn-sortable-item>\n    <span class=\"letter\">L</span>\n  </div>\n  <div class=\"box r2 c3\" data-lisn-sortable-item>\n    <span class=\"letter\">S</span>\n  </div>\n  <div class=\"box r1 c3\" data-lisn-sortable-item>\n    <span class=\"letter\">S</span>\n  </div>\n\n  <div class=\"line line-v\"></div>\n  <div class=\"line line-h\"></div>\n</div>"}]}]}],["$","$L12","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$16"}]}]}]]}]]}]]}]]}]]}]}],["$","div",null,{"className":"demo_wrapper__TgABR","children":["$","$L17",null,{"className":"demo_demo__v0MNI","config":{"mode":"swap"},"children":[["$","$L18",null,{"className":"demo_box__d4Mj3 demo_r1__Oa2Ug demo_c4__bvJTB","children":["$","span",null,{"className":"demo_letter__CYIZD","children":"N"}]}],["$","$L18",null,{"className":"demo_box__d4Mj3 demo_r2__vISfi demo_c2__4dJWT","children":["$","span",null,{"className":"demo_letter__CYIZD","children":"I"}]}],["$","$L18",null,{"className":"demo_box__d4Mj3 demo_r1__Oa2Ug demo_c2__4dJWT","children":["$","span",null,{"className":"demo_letter__CYIZD","children":"I"}]}],["$","$L18",null,{"className":"demo_box__d4Mj3 demo_r2__vISfi demo_c1__DDxha","children":["$","span",null,{"className":"demo_letter__CYIZD","children":"L"}]}],["$","div",null,{}],["$","$L18",null,{"className":"demo_box__d4Mj3 demo_r2__vISfi demo_c4__bvJTB","children":["$","span",null,{"className":"demo_letter__CYIZD","children":"N"}]}],["$","$L18",null,{"className":"demo_box__d4Mj3 demo_r1__Oa2Ug demo_c1__DDxha","children":["$","span",null,{"className":"demo_letter__CYIZD","children":"L"}]}],["$","$L18",null,{"className":"demo_box__d4Mj3 demo_r2__vISfi demo_c3__Kk4re","children":["$","span",null,{"className":"demo_letter__CYIZD","children":"S"}]}],["$","$L18",null,{"className":"demo_box__d4Mj3 demo_r1__Oa2Ug demo_c3__Kk4re","children":["$","span",null,{"className":"demo_letter__CYIZD","children":"S"}]}],["$","div",null,{"className":"demo_line__cJgqp demo_lineV__xi2_T"}],["$","div",null,{"className":"demo_line__cJgqp demo_lineH__hXjAo"}]]}]}]]
+}5:[["$","header",null,{"className":"","children":["$","div",null,{"className":"demo-header_header__XHBl7","children":[["$","$Ld",null,{"as":"button","className":"demo-header_popupTrigger__P7aJa","config":{"hover":true},"children":"View code"}],["$","$Le",null,{"className":"demo-header_menu__PDzWc","config":{"position":"bottom-right"},"children":[["$","div","react",{"children":[["$","$Lf",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"React"}],["$","$L10",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":[null,["$","$L11",null,{"className":"demo-header_pager__Z3R3T","tabNames":["CSS"],"fixedHeight":true,"children":[["$","$L12","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$13"}]}]}]]}]]}]]}],["$","div","next",{"children":[["$","$Lf",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"React (Next.js)"}],["$","$L10",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":[null,["$","$L11",null,{"className":"demo-header_pager__Z3R3T","tabNames":["TSX","CSS"],"fixedHeight":true,"children":[["$","$L12","TSX",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$14"}]}]}],["$","$L12","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$15"}]}]}]]}]]}]]}],["$","div","jsApi",{"children":[["$","$Lf",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"JavaScript API"}],["$","$L10",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":[null,["$","$L11",null,{"className":"demo-header_pager__Z3R3T","tabNames":["JavaScript","HTML","CSS"],"fixedHeight":true,"children":[["$","$L12","JavaScript",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"document.addEventListener(\"DOMContentLoaded\", () => {\n  const sortable = document.getElementById(\"demo\");\n  const items = sortable.querySelectorAll(\".box\");\n  new LISN.widgets.Sortable(sortable, {\n    items,\n    mode: \"swap\",\n  });\n});"}]}]}],["$","$L12","HTML",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"<div id=\"demo\">\n  <div class=\"box r1 c4\"><span class=\"letter\">N</span></div>\n  <div class=\"box r2 c2\"><span class=\"letter\">I</span></div>\n  <div class=\"box r1 c2\"><span class=\"letter\">I</span></div>\n  <div class=\"box r2 c1\"><span class=\"letter\">L</span></div>\n\n  <div></div>\n\n  <div class=\"box r2 c4\"><span class=\"letter\">N</span></div>\n  <div class=\"box r1 c1\"><span class=\"letter\">L</span></div>\n  <div class=\"box r2 c3\"><span class=\"letter\">S</span></div>\n  <div class=\"box r1 c3\"><span class=\"letter\">S</span></div>\n\n  <div class=\"line line-v\"></div>\n  <div class=\"line line-h\"></div>\n</div>"}]}]}],["$","$L12","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$16"}]}]}]]}]]}]]}],["$","div","htmlApi",{"children":[["$","$Lf",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"HTML API"}],["$","$L10",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":[null,["$","$L11",null,{"className":"demo-header_pager__Z3R3T","tabNames":["HTML","CSS"],"fixedHeight":true,"children":[["$","$L12","HTML",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"<div id=\"demo\" data-lisn-sortable=\"mode=swap\">\n  <div class=\"box r1 c4\" data-lisn-sortable-item>\n    <span class=\"letter\">N</span>\n  </div>\n  <div class=\"box r2 c2\" data-lisn-sortable-item>\n    <span class=\"letter\">I</span>\n  </div>\n  <div class=\"box r1 c2\" data-lisn-sortable-item>\n    <span class=\"letter\">I</span>\n  </div>\n  <div class=\"box r2 c1\" data-lisn-sortable-item>\n    <span class=\"letter\">L</span>\n  </div>\n\n  <div></div>\n\n  <div class=\"box r2 c4\" data-lisn-sortable-item>\n    <span class=\"letter\">N</span>\n  </div>\n  <div class=\"box r1 c1\" data-lisn-sortable-item>\n    <span class=\"letter\">L</span>\n  </div>\n  <div class=\"box r2 c3\" data-lisn-sortable-item>\n    <span class=\"letter\">S</span>\n  </div>\n  <div class=\"box r1 c3\" data-lisn-sortable-item>\n    <span class=\"letter\">S</span>\n  </div>\n\n  <div class=\"line line-v\"></div>\n  <div class=\"line line-h\"></div>\n</div>"}]}]}],["$","$L12","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$17"}]}]}]]}]]}]]}]]}]]}]}],["$","div",null,{"className":"demo_wrapper__TgABR","children":["$","$L18",null,{"className":"demo_demo__v0MNI","config":{"mode":"swap"},"children":[["$","$L19",null,{"className":"demo_box__d4Mj3 demo_r1__Oa2Ug demo_c4__bvJTB","children":["$","span",null,{"className":"demo_letter__CYIZD","children":"N"}]}],["$","$L19",null,{"className":"demo_box__d4Mj3 demo_r2__vISfi demo_c2__4dJWT","children":["$","span",null,{"className":"demo_letter__CYIZD","children":"I"}]}],["$","$L19",null,{"className":"demo_box__d4Mj3 demo_r1__Oa2Ug demo_c2__4dJWT","children":["$","span",null,{"className":"demo_letter__CYIZD","children":"I"}]}],["$","$L19",null,{"className":"demo_box__d4Mj3 demo_r2__vISfi demo_c1__DDxha","children":["$","span",null,{"className":"demo_letter__CYIZD","children":"L"}]}],["$","div",null,{}],["$","$L19",null,{"className":"demo_box__d4Mj3 demo_r2__vISfi demo_c4__bvJTB","children":["$","span",null,{"className":"demo_letter__CYIZD","children":"N"}]}],["$","$L19",null,{"className":"demo_box__d4Mj3 demo_r1__Oa2Ug demo_c1__DDxha","children":["$","span",null,{"className":"demo_letter__CYIZD","children":"L"}]}],["$","$L19",null,{"className":"demo_box__d4Mj3 demo_r2__vISfi demo_c3__Kk4re","children":["$","span",null,{"className":"demo_letter__CYIZD","children":"S"}]}],["$","$L19",null,{"className":"demo_box__d4Mj3 demo_r1__Oa2Ug demo_c3__Kk4re","children":["$","span",null,{"className":"demo_letter__CYIZD","children":"S"}]}],["$","div",null,{"className":"demo_line__cJgqp demo_lineV__xi2_T"}],["$","div",null,{"className":"demo_line__cJgqp demo_lineH__hXjAo"}]]}]}]]

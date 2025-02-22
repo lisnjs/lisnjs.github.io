@@ -8,112 +8,21 @@ a:I[1587,[],"ViewportBoundary"]
 c:I[4013,[],""]
 :HL["/_next/static/media/47cbc4e2adbc5db9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/2cd253a755792af7.css","style"]
-:HL["/_next/static/css/f2ade504ddd879a3.css","style"]
-:HL["/_next/static/css/7c3d48acb448fc6c.css","style"]
-:HL["/_next/static/css/1c3a0da2ad6a8828.css","style"]
-0:{"P":null,"b":"88PL2ay3N34VcYeKGbLCW","p":"","c":["","demos","track-gesture",""],"i":false,"f":[[["",{"children":["(demos)",{"children":["demos",{"children":["track-gesture",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2cd253a755792af7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"className":"__className_22ceb1 lisn-hide-scroll","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],{"children":["(demos)",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["demos",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children","demos","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["track-gesture",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children","demos","children","track-gesture","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f2ade504ddd879a3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/7c3d48acb448fc6c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/1c3a0da2ad6a8828.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","qrNsxgLxODAyDCcKvLMVD",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
+:HL["/_next/static/css/c876aa9f8dc62d08.css","style"]
+:HL["/_next/static/css/6be4c88a6e107518.css","style"]
+:HL["/_next/static/css/0edddf5bd6dc1454.css","style"]
+0:{"P":null,"b":"Q-HTWN3_kHhX5jzO_AaO3","p":"","c":["","demos","track-gesture",""],"i":false,"f":[[["",{"children":["(demos)",{"children":["demos",{"children":["track-gesture",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2cd253a755792af7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"className":"__className_22ceb1 lisn-hide-scroll","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],{"children":["(demos)",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["demos",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children","demos","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["track-gesture",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children","demos","children","track-gesture","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c876aa9f8dc62d08.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/6be4c88a6e107518.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/0edddf5bd6dc1454.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","wnZ294ZLX0Gd7EclZJ_Qj",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
 b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Track gesture | Demos | LISN.js"}],["$","meta","2",{"name":"description","content":"Lightweight and simple. Powerful and flexible. LISN handles all complexities so you can simply handle user gestures, actions and events."}],["$","meta","3",{"name":"keywords","content":"lisn,lisn.js,gesture,interaction,interactive,user action,action trigger,event,scrollbar,pager,slider,carousel,modal,popup,collapsible,sortable,same-height,equal-height,widgets"}],["$","meta","4",{"property":"og:title","content":"LISN.js"}],["$","meta","5",{"property":"og:description","content":"Lightweight and simple. Powerful and flexible. LISN handles all complexities so you can simply handle user gestures, actions and events."}],["$","meta","6",{"property":"og:url","content":"https://lisnjs.github.io/"}],["$","meta","7",{"property":"og:site_name","content":"LISN.js"}],["$","meta","8",{"property":"og:image","content":"https://lisnjs.github.io/cover.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"600"}],["$","meta","11",{"property":"og:image:alt","content":"LISN.js preview image"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"LISN.js"}],["$","meta","15",{"name":"twitter:description","content":"Lightweight and simple. Powerful and flexible. LISN handles all complexities so you can simply handle user gestures, actions and events."}],["$","meta","16",{"name":"twitter:image","content":"https://lisnjs.github.io/cover.jpg"}],["$","meta","17",{"name":"twitter:image:width","content":"1200"}],["$","meta","18",{"name":"twitter:image:height","content":"600"}],["$","meta","19",{"name":"twitter:image:alt","content":"LISN.js preview image"}],["$","link","20",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"64x64"}]]
 7:null
-d:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","771","static/chunks/771-09f29020a56b1ccd.js","689","static/chunks/689-03f25a56d610b540.js","659","static/chunks/app/(demos)/demos/track-gesture/page-3347b57b3b61fa3a.js"],"PopupTriggerComponent"]
-e:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","771","static/chunks/771-09f29020a56b1ccd.js","689","static/chunks/689-03f25a56d610b540.js","659","static/chunks/app/(demos)/demos/track-gesture/page-3347b57b3b61fa3a.js"],"PopupComponent"]
-f:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","771","static/chunks/771-09f29020a56b1ccd.js","689","static/chunks/689-03f25a56d610b540.js","659","static/chunks/app/(demos)/demos/track-gesture/page-3347b57b3b61fa3a.js"],"ModalTriggerComponent"]
-10:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","771","static/chunks/771-09f29020a56b1ccd.js","689","static/chunks/689-03f25a56d610b540.js","659","static/chunks/app/(demos)/demos/track-gesture/page-3347b57b3b61fa3a.js"],"ModalComponent"]
-11:I[4887,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","771","static/chunks/771-09f29020a56b1ccd.js","689","static/chunks/689-03f25a56d610b540.js","659","static/chunks/app/(demos)/demos/track-gesture/page-3347b57b3b61fa3a.js"],"CodePager"]
-12:I[4887,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","771","static/chunks/771-09f29020a56b1ccd.js","689","static/chunks/689-03f25a56d610b540.js","659","static/chunks/app/(demos)/demos/track-gesture/page-3347b57b3b61fa3a.js"],"CodePagerPage"]
-17:I[3525,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","771","static/chunks/771-09f29020a56b1ccd.js","689","static/chunks/689-03f25a56d610b540.js","659","static/chunks/app/(demos)/demos/track-gesture/page-3347b57b3b61fa3a.js"],"default"]
-13:T86e,"use client";
-import { useEffect, useRef } from "react";
-
-import { GestureWatcher } from "lisn.js";
-
-import Image from "@lib/Image";
-import Link from "@lib/Link";
-
-import styles from "./demo.module.css";
-
-export default function Page() {
-  const demoRef = useRef(null);
-
-  useEffect(() => {
-    const watcher = GestureWatcher.reuse();
-    const main = demoRef.current;
-    if (main) {
-      watcher.trackGesture(main, null, {
-        minTotalDeltaY: 0,
-        maxTotalDeltaY: 960,
-        minTotalDeltaZ: 1,
-        maxTotalDeltaZ: 2.4,
-      });
-    }
-
-    return () => {
-      // cleanup
-      if (main) {
-        watcher.noTrackGesture(main);
-      }
-    };
-  }, []);
-
-  return (
-    <>
-      <div ref={demoRef} className={[styles.demo, "light-theme"].join(" ")}>
-        <h1>Scroll or zoom</h1>
-
-        <div className={styles.plane} data-plane="5">
-          <Image
-            className={styles.background}
-            src="/images/landscape-5.png"
-            alt=""
-          />
-        </div>
-
-        <div className={styles.plane} data-plane="4">
-          <Image
-            className={styles.background}
-            src="/images/landscape-4.png"
-            alt=""
-          />
-        </div>
-
-        <div className={styles.plane} data-plane="3">
-          <div className={styles.spacer}></div>
-          <Image
-            className={styles.background}
-            src="/images/landscape-3.png"
-            alt=""
-          />
-        </div>
-
-        <div className={styles.plane} data-plane="2">
-          <div className={styles.spacer}></div>
-          <Image
-            className={styles.background}
-            src="/images/landscape-2.png"
-            alt=""
-          />
-        </div>
-
-        <div className={styles.plane} data-plane="1">
-          <div className={styles.spacer}></div>
-          <Image
-            className={styles.background}
-            src="/images/landscape-1.png"
-            alt=""
-          />
-        </div>
-      </div>
-
-      <div className={styles.license}>
-        Image by{" "}
-        <Link href="http://www.freepik.com/" target="_blank">
-          Freepik
-        </Link>
-      </div>
-    </>
-  );
-}
-14:T823,.demo {
+d:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","771","static/chunks/771-09f29020a56b1ccd.js","689","static/chunks/689-03f25a56d610b540.js","659","static/chunks/app/(demos)/demos/track-gesture/page-fd7ef2f9d8b5e5a0.js"],"PopupTriggerComponent"]
+e:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","771","static/chunks/771-09f29020a56b1ccd.js","689","static/chunks/689-03f25a56d610b540.js","659","static/chunks/app/(demos)/demos/track-gesture/page-fd7ef2f9d8b5e5a0.js"],"PopupComponent"]
+f:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","771","static/chunks/771-09f29020a56b1ccd.js","689","static/chunks/689-03f25a56d610b540.js","659","static/chunks/app/(demos)/demos/track-gesture/page-fd7ef2f9d8b5e5a0.js"],"ModalTriggerComponent"]
+10:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","771","static/chunks/771-09f29020a56b1ccd.js","689","static/chunks/689-03f25a56d610b540.js","659","static/chunks/app/(demos)/demos/track-gesture/page-fd7ef2f9d8b5e5a0.js"],"ModalComponent"]
+11:I[4887,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","771","static/chunks/771-09f29020a56b1ccd.js","689","static/chunks/689-03f25a56d610b540.js","659","static/chunks/app/(demos)/demos/track-gesture/page-fd7ef2f9d8b5e5a0.js"],"CodePager"]
+12:I[4887,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","771","static/chunks/771-09f29020a56b1ccd.js","689","static/chunks/689-03f25a56d610b540.js","659","static/chunks/app/(demos)/demos/track-gesture/page-fd7ef2f9d8b5e5a0.js"],"CodePagerPage"]
+18:I[3525,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","771","static/chunks/771-09f29020a56b1ccd.js","689","static/chunks/689-03f25a56d610b540.js","659","static/chunks/app/(demos)/demos/track-gesture/page-fd7ef2f9d8b5e5a0.js"],"default"]
+13:T823,.demo {
   --max-offset: 240px;
   background: var(--bg-color);
   position: fixed;
@@ -214,7 +123,199 @@ export default function Page() {
   color: #6bb6c4;
   font-size: 14px;
 }
-15:T7b3,#demo {
+14:T86e,"use client";
+import { useEffect, useRef } from "react";
+
+import { GestureWatcher } from "lisn.js";
+
+import Image from "@lib/Image";
+import Link from "@lib/Link";
+
+import styles from "./demo.module.css";
+
+export default function Page() {
+  const demoRef = useRef(null);
+
+  useEffect(() => {
+    const watcher = GestureWatcher.reuse();
+    const main = demoRef.current;
+    if (main) {
+      watcher.trackGesture(main, null, {
+        minTotalDeltaY: 0,
+        maxTotalDeltaY: 960,
+        minTotalDeltaZ: 1,
+        maxTotalDeltaZ: 2.4,
+      });
+    }
+
+    return () => {
+      // cleanup
+      if (main) {
+        watcher.noTrackGesture(main);
+      }
+    };
+  }, []);
+
+  return (
+    <>
+      <div ref={demoRef} className={[styles.demo, "light-theme"].join(" ")}>
+        <h1>Scroll or zoom</h1>
+
+        <div className={styles.plane} data-plane="5">
+          <Image
+            className={styles.background}
+            src="/images/landscape-5.png"
+            alt=""
+          />
+        </div>
+
+        <div className={styles.plane} data-plane="4">
+          <Image
+            className={styles.background}
+            src="/images/landscape-4.png"
+            alt=""
+          />
+        </div>
+
+        <div className={styles.plane} data-plane="3">
+          <div className={styles.spacer}></div>
+          <Image
+            className={styles.background}
+            src="/images/landscape-3.png"
+            alt=""
+          />
+        </div>
+
+        <div className={styles.plane} data-plane="2">
+          <div className={styles.spacer}></div>
+          <Image
+            className={styles.background}
+            src="/images/landscape-2.png"
+            alt=""
+          />
+        </div>
+
+        <div className={styles.plane} data-plane="1">
+          <div className={styles.spacer}></div>
+          <Image
+            className={styles.background}
+            src="/images/landscape-1.png"
+            alt=""
+          />
+        </div>
+      </div>
+
+      <div className={styles.license}>
+        Image by{" "}
+        <Link href="http://www.freepik.com/" target="_blank">
+          Freepik
+        </Link>
+      </div>
+    </>
+  );
+}
+15:T823,.demo {
+  --max-offset: 240px;
+  background: var(--bg-color);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  width: 100dvw;
+  height: 100vh;
+  height: 100dvh;
+  overflow: hidden;
+}
+
+.plane[data-plane] {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.spacer,
+.background {
+  transition-duration: 0.25s;
+  transition-timing-function: linear;
+}
+
+.background {
+  pointer-events: none;
+  width: 100%;
+  height: calc(100% + var(--max-offset));
+  object-fit: cover;
+  overflow-clip-margin: unset;
+  transition-property: transform;
+  transform-origin: 50% 65%;
+}
+
+.spacer {
+  transition-property: height;
+  min-height: 0px;
+}
+
+/* Per-plane transforms */
+.plane[data-plane="4"] .background {
+  margin-top: 0;
+  transform: scale(calc(0.05 * var(--lisn-js--zoom-delta-z, 1) + 0.95));
+}
+
+.plane[data-plane="3"] .background {
+  margin-top: calc(-1 * var(--max-offset) / 3);
+  transform: scale(calc(0.2 * var(--lisn-js--zoom-delta-z, 1) + 0.8));
+}
+
+.plane[data-plane="3"] .spacer {
+  height: calc(
+    var(--max-offset) / 3 - 1px * var(--lisn-js--scroll-delta-y, 0) / 12
+  );
+  max-height: calc(var(--max-offset) / 3);
+}
+
+.plane[data-plane="2"] .background {
+  margin-top: calc(-1 * var(--max-offset) / 2);
+  transform: scale(calc(0.4 * var(--lisn-js--zoom-delta-z, 1) + 0.6));
+}
+
+.plane[data-plane="2"] .spacer {
+  height: calc(
+    var(--max-offset) / 2 - 1px * var(--lisn-js--scroll-delta-y, 0) / 8
+  );
+  max-height: calc(var(--max-offset) / 2);
+}
+
+.plane[data-plane="1"] .background {
+  margin-top: calc(-1 * var(--max-offset));
+  transform: scale(calc(0.6 * var(--lisn-js--zoom-delta-z, 1) + 0.4));
+}
+
+.plane[data-plane="1"] .spacer {
+  height: calc(var(--max-offset) - 1px * var(--lisn-js--scroll-delta-y, 0) / 4);
+  max-height: var(--max-offset);
+}
+
+/* Misc styles */
+.demo h1 {
+  text-align: center;
+  color: #03505c;
+  z-index: 10;
+  position: relative;
+  font-weight: 400;
+  margin-top: 25vh;
+  margin-left: 4vw;
+  mix-blend-mode: multiply;
+}
+
+.license {
+  position: fixed;
+  bottom: 10px;
+  right: 20px;
+  color: #6bb6c4;
+  font-size: 14px;
+}
+16:T7b3,#demo {
   --max-offset: 240px;
   width: 100%;
   height: 100%;
@@ -308,7 +409,7 @@ export default function Page() {
   margin: 10px 20px;
   color: #6bb6c4;
   font-size: 14px;
-}16:T7b4,#demo {
+}17:T7b4,#demo {
   --max-offset: 240px;
   width: 100%;
   height: 100vh;
@@ -402,4 +503,4 @@ export default function Page() {
   margin: 10px 20px;
   color: #6bb6c4;
   font-size: 14px;
-}5:[["$","header",null,{"className":"","children":["$","div",null,{"className":"demo-header_header__XHBl7","children":[["$","$Ld",null,{"as":"button","className":"demo-header_popupTrigger__P7aJa","config":{"hover":true},"children":"View code"}],["$","$Le",null,{"className":"demo-header_menu__PDzWc","config":{"position":"bottom-right"},"children":[["$","div","react",{"children":[["$","$Lf",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"React (Next.js)"}],["$","$L10",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":[null,["$","$L11",null,{"className":"$undefined","tabNames":["TSX","CSS"],"fixedHeight":true,"children":[["$","$L12","TSX",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$13"}]}]}],["$","$L12","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$14"}]}]}]]}]]}]]}],["$","div","jsApi",{"children":[["$","$Lf",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"JavaScript API"}],["$","$L10",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":[null,["$","$L11",null,{"className":"$undefined","tabNames":["JavaScript","HTML","CSS"],"fixedHeight":true,"children":[["$","$L12","JavaScript",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"document.addEventListener(\"DOMContentLoaded\", () => {\n  const main = document.getElementById(\"demo\");\n  LISN.watchers.GestureWatcher.reuse().trackGesture(main, null, {\n    minTotalDeltaY: 0,\n    maxTotalDeltaY: 960,\n    minTotalDeltaZ: 1,\n    maxTotalDeltaZ: 2.4,\n  });\n});"}]}]}],["$","$L12","HTML",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"<div id=\"demo\">\n  <h1>Scroll or zoom</h1>\n\n  <div class=\"landscape-5 plane\">\n    <!-- static -->\n    <img class=\"background\" src=\"images/landscape-5.png\" alt=\"\" />\n  </div>\n\n  <div class=\"landscape-4 plane\">\n    <!-- static offset -->\n    <img class=\"background\" src=\"images/landscape-4.png\" alt=\"\" />\n  </div>\n\n  <div class=\"landscape-3 plane\">\n    <div class=\"spacer\"></div>\n    <img class=\"background\" src=\"images/landscape-3.png\" alt=\"\" />\n  </div>\n\n  <div class=\"landscape-2 plane\">\n    <div class=\"spacer\"></div>\n    <img class=\"background\" src=\"images/landscape-2.png\" alt=\"\" />\n  </div>\n\n  <div class=\"landscape-1 plane\">\n    <div class=\"spacer\"></div>\n    <img class=\"background\" src=\"images/landscape-1.png\" alt=\"\" />\n  </div>\n</div>"}]}]}],["$","$L12","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$15"}]}]}]]}]]}]]}],["$","div","htmlApi",{"children":[["$","$Lf",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"HTML API"}],["$","$L10",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":[null,["$","$L11",null,{"className":"$undefined","tabNames":["HTML","CSS"],"fixedHeight":true,"children":[["$","$L12","HTML",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"<div\n  id=\"demo\"\n  data-lisn-track-gesture=\"min-delta-y=0\n                           | max-delta-y=960\n                           | min-delta-z=1\n                           | max-delta-z=2.4\"\n>\n  <h1>Scroll or zoom</h1>\n\n  <div class=\"landscape-5 plane\">\n    <!-- static -->\n    <img class=\"background\" src=\"images/landscape-5.png\" alt=\"\" />\n  </div>\n\n  <div class=\"landscape-4 plane\">\n    <!-- static offset -->\n    <img class=\"background\" src=\"images/landscape-4.png\" alt=\"\" />\n  </div>\n\n  <div class=\"landscape-3 plane\">\n    <div class=\"spacer\"></div>\n    <img class=\"background\" src=\"images/landscape-3.png\" alt=\"\" />\n  </div>\n\n  <div class=\"landscape-2 plane\">\n    <div class=\"spacer\"></div>\n    <img class=\"background\" src=\"images/landscape-2.png\" alt=\"\" />\n  </div>\n\n  <div class=\"landscape-1 plane\">\n    <div class=\"spacer\"></div>\n    <img class=\"background\" src=\"images/landscape-1.png\" alt=\"\" />\n  </div>\n</div>"}]}]}],["$","$L12","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$16"}]}]}]]}]]}]]}]]}]]}]}],["$","$L17",null,{}]]
+}5:[["$","header",null,{"className":"","children":["$","div",null,{"className":"demo-header_header__XHBl7","children":[["$","$Ld",null,{"as":"button","className":"demo-header_popupTrigger__P7aJa","config":{"hover":true},"children":"View code"}],["$","$Le",null,{"className":"demo-header_menu__PDzWc","config":{"position":"bottom-right"},"children":[["$","div","react",{"children":[["$","$Lf",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"React"}],["$","$L10",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":[null,["$","$L11",null,{"className":"demo-header_pager__Z3R3T","tabNames":["CSS"],"fixedHeight":true,"children":[["$","$L12","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$13"}]}]}]]}]]}]]}],["$","div","next",{"children":[["$","$Lf",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"React (Next.js)"}],["$","$L10",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":[null,["$","$L11",null,{"className":"demo-header_pager__Z3R3T","tabNames":["TSX","CSS"],"fixedHeight":true,"children":[["$","$L12","TSX",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$14"}]}]}],["$","$L12","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$15"}]}]}]]}]]}]]}],["$","div","jsApi",{"children":[["$","$Lf",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"JavaScript API"}],["$","$L10",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":[null,["$","$L11",null,{"className":"demo-header_pager__Z3R3T","tabNames":["JavaScript","HTML","CSS"],"fixedHeight":true,"children":[["$","$L12","JavaScript",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"document.addEventListener(\"DOMContentLoaded\", () => {\n  const main = document.getElementById(\"demo\");\n  LISN.watchers.GestureWatcher.reuse().trackGesture(main, null, {\n    minTotalDeltaY: 0,\n    maxTotalDeltaY: 960,\n    minTotalDeltaZ: 1,\n    maxTotalDeltaZ: 2.4,\n  });\n});"}]}]}],["$","$L12","HTML",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"<div id=\"demo\">\n  <h1>Scroll or zoom</h1>\n\n  <div class=\"landscape-5 plane\">\n    <!-- static -->\n    <img class=\"background\" src=\"images/landscape-5.png\" alt=\"\" />\n  </div>\n\n  <div class=\"landscape-4 plane\">\n    <!-- static offset -->\n    <img class=\"background\" src=\"images/landscape-4.png\" alt=\"\" />\n  </div>\n\n  <div class=\"landscape-3 plane\">\n    <div class=\"spacer\"></div>\n    <img class=\"background\" src=\"images/landscape-3.png\" alt=\"\" />\n  </div>\n\n  <div class=\"landscape-2 plane\">\n    <div class=\"spacer\"></div>\n    <img class=\"background\" src=\"images/landscape-2.png\" alt=\"\" />\n  </div>\n\n  <div class=\"landscape-1 plane\">\n    <div class=\"spacer\"></div>\n    <img class=\"background\" src=\"images/landscape-1.png\" alt=\"\" />\n  </div>\n</div>"}]}]}],["$","$L12","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$16"}]}]}]]}]]}]]}],["$","div","htmlApi",{"children":[["$","$Lf",null,{"as":"button","className":"demo-header_trigger__s2VJi","children":"HTML API"}],["$","$L10",null,{"className":"demo-header_content__rLPdu","config":{"className":"demo-header_modal__FDCFD"},"children":[null,["$","$L11",null,{"className":"demo-header_pager__Z3R3T","tabNames":["HTML","CSS"],"fixedHeight":true,"children":[["$","$L12","HTML",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"<div\n  id=\"demo\"\n  data-lisn-track-gesture=\"min-delta-y=0\n                           | max-delta-y=960\n                           | min-delta-z=1\n                           | max-delta-z=2.4\"\n>\n  <h1>Scroll or zoom</h1>\n\n  <div class=\"landscape-5 plane\">\n    <!-- static -->\n    <img class=\"background\" src=\"images/landscape-5.png\" alt=\"\" />\n  </div>\n\n  <div class=\"landscape-4 plane\">\n    <!-- static offset -->\n    <img class=\"background\" src=\"images/landscape-4.png\" alt=\"\" />\n  </div>\n\n  <div class=\"landscape-3 plane\">\n    <div class=\"spacer\"></div>\n    <img class=\"background\" src=\"images/landscape-3.png\" alt=\"\" />\n  </div>\n\n  <div class=\"landscape-2 plane\">\n    <div class=\"spacer\"></div>\n    <img class=\"background\" src=\"images/landscape-2.png\" alt=\"\" />\n  </div>\n\n  <div class=\"landscape-1 plane\">\n    <div class=\"spacer\"></div>\n    <img class=\"background\" src=\"images/landscape-1.png\" alt=\"\" />\n  </div>\n</div>"}]}]}],["$","$L12","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$17"}]}]}]]}]]}]]}]]}]]}]}],["$","$L18",null,{}]]
