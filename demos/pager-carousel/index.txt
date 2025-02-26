@@ -8,23 +8,24 @@ a:I[1587,[],"ViewportBoundary"]
 c:I[4013,[],""]
 :HL["/_next/static/media/47cbc4e2adbc5db9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/6ca31e38f047a3af.css","style"]
-:HL["/_next/static/css/6a00fa6562c72af6.css","style"]
-:HL["/_next/static/css/d5771e4a8aad2d2d.css","style"]
+:HL["/_next/static/css/33552bcab396adb0.css","style"]
+:HL["/_next/static/css/a1449182bcc82998.css","style"]
+:HL["/_next/static/css/e9c309a6a7956719.css","style"]
 :HL["/_next/static/css/13fe0caa946a5475.css","style"]
-0:{"P":null,"b":"BR9auK1kXJ2BavakVVcvJ","p":"","c":["","demos","pager-carousel",""],"i":false,"f":[[["",{"children":["(demos)",{"children":["demos",{"children":["pager-carousel",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6ca31e38f047a3af.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"className":"__className_22ceb1 lisn-hide-scroll","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],{"children":["(demos)",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["demos",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children","demos","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["pager-carousel",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children","demos","children","pager-carousel","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6a00fa6562c72af6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d5771e4a8aad2d2d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/13fe0caa946a5475.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","0_kz7sq5LxbkXT8-X3q7s",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"EUmYz3WpCSE-fb_uB86vJ","p":"","c":["","demos","pager-carousel",""],"i":false,"f":[[["",{"children":["(demos)",{"children":["demos",{"children":["pager-carousel",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6ca31e38f047a3af.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"className":"__className_22ceb1 lisn-hide-scroll","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],{"children":["(demos)",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:notFound:1:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["demos",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children","demos","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["pager-carousel",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(demos)","children","demos","children","pager-carousel","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/33552bcab396adb0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/a1449182bcc82998.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/e9c309a6a7956719.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/css/13fe0caa946a5475.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","uuZWrUklBrAbuLMs2exvj",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
 b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Carousel pager | Demos | LISN.js"}],["$","meta","2",{"name":"description","content":"Lightweight and simple. Powerful and flexible. LISN handles all complexities so you can simply handle user gestures, actions and events."}],["$","meta","3",{"name":"keywords","content":"lisn,lisn.js,gesture,interaction,interactive,user action,action trigger,event,scrollbar,pager,slider,carousel,modal,popup,collapsible,sortable,same-height,equal-height,widgets"}],["$","meta","4",{"property":"og:title","content":"LISN.js"}],["$","meta","5",{"property":"og:description","content":"Lightweight and simple. Powerful and flexible. LISN handles all complexities so you can simply handle user gestures, actions and events."}],["$","meta","6",{"property":"og:url","content":"https://lisnjs.github.io/"}],["$","meta","7",{"property":"og:site_name","content":"LISN.js"}],["$","meta","8",{"property":"og:image","content":"https://lisnjs.github.io/cover.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"600"}],["$","meta","11",{"property":"og:image:alt","content":"LISN.js preview image"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"LISN.js"}],["$","meta","15",{"name":"twitter:description","content":"Lightweight and simple. Powerful and flexible. LISN handles all complexities so you can simply handle user gestures, actions and events."}],["$","meta","16",{"name":"twitter:image","content":"https://lisnjs.github.io/cover.jpg"}],["$","meta","17",{"name":"twitter:image:width","content":"1200"}],["$","meta","18",{"name":"twitter:image:height","content":"600"}],["$","meta","19",{"name":"twitter:image:alt","content":"LISN.js preview image"}],["$","link","20",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"64x64"}]]
 7:null
-d:I[4159,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-5a7976b99f1b2ac9.js","862","static/chunks/app/(demos)/demos/pager-carousel/page-9d85387862738354.js"],""]
-e:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-5a7976b99f1b2ac9.js","862","static/chunks/app/(demos)/demos/pager-carousel/page-9d85387862738354.js"],"PopupTriggerComponent"]
-f:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-5a7976b99f1b2ac9.js","862","static/chunks/app/(demos)/demos/pager-carousel/page-9d85387862738354.js"],"PopupComponent"]
-10:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-5a7976b99f1b2ac9.js","862","static/chunks/app/(demos)/demos/pager-carousel/page-9d85387862738354.js"],"ModalTriggerComponent"]
-11:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-5a7976b99f1b2ac9.js","862","static/chunks/app/(demos)/demos/pager-carousel/page-9d85387862738354.js"],"ModalComponent"]
-12:I[4887,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-5a7976b99f1b2ac9.js","862","static/chunks/app/(demos)/demos/pager-carousel/page-9d85387862738354.js"],"CodePager"]
-13:I[4887,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-5a7976b99f1b2ac9.js","862","static/chunks/app/(demos)/demos/pager-carousel/page-9d85387862738354.js"],"CodePagerPage"]
-1a:I[7232,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-5a7976b99f1b2ac9.js","862","static/chunks/app/(demos)/demos/pager-carousel/page-9d85387862738354.js"],"default"]
-1b:I[2837,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-5a7976b99f1b2ac9.js","862","static/chunks/app/(demos)/demos/pager-carousel/page-9d85387862738354.js"],"default"]
-14:Tc2e,"use client";
+d:I[4159,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-b42010c7a010af59.js","862","static/chunks/app/(demos)/demos/pager-carousel/page-f290e9059a927210.js"],""]
+e:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-b42010c7a010af59.js","862","static/chunks/app/(demos)/demos/pager-carousel/page-f290e9059a927210.js"],"PopupTriggerComponent"]
+f:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-b42010c7a010af59.js","862","static/chunks/app/(demos)/demos/pager-carousel/page-f290e9059a927210.js"],"PopupComponent"]
+10:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-b42010c7a010af59.js","862","static/chunks/app/(demos)/demos/pager-carousel/page-f290e9059a927210.js"],"ModalTriggerComponent"]
+11:I[9323,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-b42010c7a010af59.js","862","static/chunks/app/(demos)/demos/pager-carousel/page-f290e9059a927210.js"],"ModalComponent"]
+12:I[4887,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-b42010c7a010af59.js","862","static/chunks/app/(demos)/demos/pager-carousel/page-f290e9059a927210.js"],"CodePager"]
+13:I[4887,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-b42010c7a010af59.js","862","static/chunks/app/(demos)/demos/pager-carousel/page-f290e9059a927210.js"],"CodePagerPage"]
+1a:I[7232,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-b42010c7a010af59.js","862","static/chunks/app/(demos)/demos/pager-carousel/page-f290e9059a927210.js"],"default"]
+1b:I[2837,["159","static/chunks/159-0f741bb658f7ae9b.js","756","static/chunks/756-433d325e682a043b.js","689","static/chunks/689-b42010c7a010af59.js","862","static/chunks/app/(demos)/demos/pager-carousel/page-f290e9059a927210.js"],"default"]
+14:Tc10,"use client";
 import {
   PagerComponent,
   PagerPageComponent,
@@ -32,9 +33,7 @@ import {
   PagerPrevSwitchComponent,
   PagerNextSwitchComponent,
 } from "@lisn.js/react";
-// Don't load the default pager CSS otherwise we'd have to override quite a few
-// properties. We need to set custom style for everything anyway.
-// import "lisn.js/pager.css";
+import "lisn.js/pager-carousel.css";
 
 import styles from "./demo.module.css";
 
@@ -45,7 +44,11 @@ export default function Page() {
         <PagerComponent
           className={styles.demo}
           config={{
+            style: "carousel",
+            peek: true,
+            pageSize: 250,
             horizontal: true,
+            parallax: true,
             useGestures: "touch,wheel",
             alignGestureDirection: true,
             preventDefault: false,
@@ -124,7 +127,7 @@ export default function Page() {
     </>
   );
 }
-15:Te9d,/* Container */
+15:T8bc,/* Container */
 .wrapper {
   --animate-duration: 0.4s;
   position: fixed;
@@ -144,75 +147,23 @@ export default function Page() {
 /* Pager and page container */
 .demo {
   width: 100%;
-  padding: 0 3vmax;
-}
-
-.pages {
-  --gap: 3vmin;
-  --tot-p: var(--lisn-js--total-pages, 1);
-  --curr-p: var(--lisn-js--current-page, 1);
-  --vis-p: min(6, var(--tot-p));
-  --page-w: calc(
-    min(
-      320px,
-      (100% - var(--gap) * (var(--vis-p) - 1)) /
-        (var(--vis-p) + min(var(--tot-p) - var(--vis-p), 0.5))
-    )
-  );
-  max-width: calc(
-    var(--tot-p) * var(--page-w) + (var(--vis-p) - 1) * var(--gap)
-  );
+  max-width: 1460px;
   margin: 0 auto;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  align-items: stretch;
-  justify-content: flex-start;
-  gap: var(--gap);
-  overflow: visible;
-  transition-duration: 0.7s;
-  transition-property: transform;
-  transform: translateX(
-    calc(
-      -1 * (var(--page-w) + var(--gap)) *
-        max(
-          0,
-          min(
-            var(--tot-p) - var(--vis-p) - 0.5,
-            var(--curr-p) - 1.25 - (var(--vis-p) - 1) / 2
-          )
-        )
-    )
-  );
 }
 
 /* Individual pages */
 .page {
-  padding: 5vh 3vmin;
+  padding: 5vh 2vmin;
   border-radius: 15px;
   background: var(--bg-color-lighter);
-  flex: 0 0 var(--page-w);
-  height: auto;
-  position: relative;
-  transform: scale(0.92);
-  transition-property: transform, flex-basis;
-  transition-duration: 0.7s;
   box-shadow: rgba(0, 0, 0, 0.2) 4px 5px 5px 0px;
-}
-
-.page .content {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
 }
 
 .page[data-lisn-page-state="current"] {
   background: var(--bg-color-lightest);
-  transform: scale(1);
 }
 
 /* Switches (general) */
-
 .content,
 .arrow {
   cursor: pointer;
@@ -262,38 +213,13 @@ export default function Page() {
   border-right: none !important;
 }
 
-/* Number of visible pages on smaller screens */
-@media (max-width: 1810px) {
-  .pages {
-    --vis-p: min(5, var(--tot-p));
-  }
-}
-
-@media (max-width: 1530px) {
-  .pages {
-    --vis-p: min(4, var(--tot-p));
-  }
-}
-
-@media (max-width: 1250px) {
-  .pages {
-    --vis-p: min(3, var(--tot-p));
-  }
-}
-
-@media (max-width: 970px) {
-  .pages {
-    --vis-p: min(2, var(--tot-p));
-  }
-}
-
-@media (max-width: 750px) {
-  .pages {
-    --vis-p: 1;
-  }
-}
-
 /* Page content */
+.page .content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .demo h1 {
   margin: 0 auto;
   font-size: 75px;
@@ -380,70 +306,26 @@ export default function Page() {
       </ul>
     </div>
   </div>
-</div>17:Tda9,/* Pager and page container */
+</div>17:T7c2,/* Pager and page container */
 #demo {
   width: 100%;
-  padding: 0 3vmax;
-}
-
-#demo .pages {
-  --gap: 3vmin;
-  --tot-p: var(--lisn-js--total-pages, 1);
-  --curr-p: var(--lisn-js--current-page, 1);
-  --vis-p: min(6, var(--tot-p));
-  --page-w: calc(
-    min(
-      320px,
-      (100% - var(--gap) * (var(--vis-p) - 1)) /
-        (var(--vis-p) + min(var(--tot-p) - var(--vis-p), 0.5))
-    )
-  );
-  max-width: calc(
-    var(--tot-p) * var(--page-w) + (var(--vis-p) - 1) * var(--gap)
-  );
+  max-width: 1460px;
   margin: 0 auto;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  align-items: stretch;
-  justify-content: flex-start;
-  gap: var(--gap);
-  overflow: visible;
-  transition-duration: 0.7s;
-  transition-property: transform;
-  transform: translateX(
-    calc(
-      -1 * (var(--page-w) + var(--gap)) *
-        max(
-          0,
-          min(
-            var(--tot-p) - var(--vis-p) - 0.5,
-            var(--curr-p) - 1.25 - (var(--vis-p) - 1) / 2
-          )
-        )
-    )
-  );
 }
 
 /* Individual pages */
 #demo .page {
-  padding: 5vh 3vmin;
+  padding: 5vh 2vmin;
   border-radius: 15px;
   background: var(--bg-color-lighter);
-  flex: 0 0 var(--page-w);
-  height: auto;
-  position: relative;
-  transform: scale(0.92);
+  box-shadow: rgba(0, 0, 0, 0.2) 4px 5px 5px 0px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  transition-property: transform, flex-basis;
-  box-shadow: rgba(0, 0, 0, 0.2) 4px 5px 5px 0px;
 }
 
 #demo .page[data-lisn-page-state="current"] {
   background: var(--bg-color-lightest);
-  transform: scale(1);
 }
 
 #demo .switch {
@@ -495,37 +377,6 @@ export default function Page() {
   border-right: none !important;
 }
 
-/* Number of visible pages on smaller screens */
-@media (max-width: 1810px) {
-  #demo .pages {
-    --vis-p: min(5, var(--tot-p));
-  }
-}
-
-@media (max-width: 1530px) {
-  #demo .pages {
-    --vis-p: min(4, var(--tot-p));
-  }
-}
-
-@media (max-width: 1250px) {
-  #demo .pages {
-    --vis-p: min(3, var(--tot-p));
-  }
-}
-
-@media (max-width: 970px) {
-  #demo .pages {
-    --vis-p: min(2, var(--tot-p));
-  }
-}
-
-@media (max-width: 750px) {
-  #demo .pages {
-    --vis-p: 1;
-  }
-}
-
 /* Page content */
 #demo h1 {
   margin: 0 auto;
@@ -561,9 +412,13 @@ export default function Page() {
   font-size: 0.4em;
   transform: translateY(-0.4em);
   margin: 0 0.6em 0 0;
-}18:T54e,<div
+}18:T5c5,<div
   id="demo"
-  data-lisn-pager="horizontal
+  data-lisn-pager="style=carousel
+                 | peek
+                 | page-size=250
+                 | horizontal
+                 | parallax
                  | use-gestures=touch,wheel
                  | align-gesture-direction=true
                  | prevent-default=false"
@@ -618,70 +473,26 @@ export default function Page() {
       </ul>
     </div>
   </div>
-</div>19:Te24,/* Pager and page container */
+</div>19:T83d,/* Pager and page container */
 #demo {
   width: 100%;
-  padding: 0 3vmax;
-}
-
-#demo .pages {
-  --gap: 3vmin;
-  --tot-p: var(--lisn-js--total-pages, 1);
-  --curr-p: var(--lisn-js--current-page, 1);
-  --vis-p: min(6, var(--tot-p));
-  --page-w: calc(
-    min(
-      320px,
-      (100% - var(--gap) * (var(--vis-p) - 1)) /
-        (var(--vis-p) + min(var(--tot-p) - var(--vis-p), 0.5))
-    )
-  );
-  max-width: calc(
-    var(--tot-p) * var(--page-w) + (var(--vis-p) - 1) * var(--gap)
-  );
+  max-width: 1460px;
   margin: 0 auto;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  align-items: stretch;
-  justify-content: flex-start;
-  gap: var(--gap);
-  overflow: visible;
-  transition-duration: 0.7s;
-  transition-property: transform;
-  transform: translateX(
-    calc(
-      -1 * (var(--page-w) + var(--gap)) *
-        max(
-          0,
-          min(
-            var(--tot-p) - var(--vis-p) - 0.5,
-            var(--curr-p) - 1.25 - (var(--vis-p) - 1) / 2
-          )
-        )
-    )
-  );
 }
 
 /* Individual pages */
 #demo [data-lisn-pager-page] {
-  padding: 5vh 3vmin;
+  padding: 5vh 2vmin;
   border-radius: 15px;
   background: var(--bg-color-lighter);
-  flex: 0 0 var(--page-w);
-  height: auto;
-  position: relative;
-  transform: scale(0.92);
+  box-shadow: rgba(0, 0, 0, 0.2) 4px 5px 5px 0px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  transition-property: transform, flex-basis;
-  box-shadow: rgba(0, 0, 0, 0.2) 4px 5px 5px 0px;
 }
 
 #demo [data-lisn-pager-page][data-lisn-page-state="current"] {
   background: var(--bg-color-lightest);
-  transform: scale(1);
 }
 
 #demo [data-lisn-pager-switch] {
@@ -735,37 +546,6 @@ export default function Page() {
   border-right: none !important;
 }
 
-/* Number of visible pages on smaller screens */
-@media (max-width: 1810px) {
-  #demo .pages {
-    --vis-p: min(5, var(--tot-p));
-  }
-}
-
-@media (max-width: 1530px) {
-  #demo .pages {
-    --vis-p: min(4, var(--tot-p));
-  }
-}
-
-@media (max-width: 1250px) {
-  #demo .pages {
-    --vis-p: min(3, var(--tot-p));
-  }
-}
-
-@media (max-width: 970px) {
-  #demo .pages {
-    --vis-p: min(2, var(--tot-p));
-  }
-}
-
-@media (max-width: 750px) {
-  #demo .pages {
-    --vis-p: 1;
-  }
-}
-
 /* Page content */
 #demo h1 {
   margin: 0 auto;
@@ -801,4 +581,4 @@ export default function Page() {
   font-size: 0.4em;
   transform: translateY(-0.4em);
   margin: 0 0.6em 0 0;
-}5:[["$","header",null,{"className":"","children":["$","div",null,{"className":"demo_header__0L3xe","children":[["$","$Ld",null,{"target":"_self","href":"/","children":["LISN.js",false]}],["$","div",null,{"className":"demo_menu__X_tlF","children":[["$","$Le",null,{"as":"button","className":"plain","config":{"hover":true},"children":"View code"}],["$","$Lf",null,{"config":{"position":"bottom-right"},"children":[["$","div","react",{"children":[["$","$L10",null,{"as":"button","className":"demo_trigger__3NPLi","children":"React"}],["$","$L11",null,{"className":"demo_content__eRsYf","config":{"className":"demo_modal__oZYm_"},"children":[["$","p",null,{"className":"text-center","children":["Edit on"," ",["$","$Ld",null,{"target":"_blank","href":"https://stackblitz.com/edit/lisnjs-demo-pager-carousel-react?file=src%2FApp.tsx","children":["StackBlitz",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 10 10","className":"link_external__2MgzU","children":["$","path",null,{"fill":"var(--text-color)","d":"M9.02,5.91c0-.26.21-.47.47-.47s.47.21.47.47v2.7c0,.38-.16.73-.41.98s-.6.41-.99.41H1.4c-.38,0-.73-.16-.99-.41-.25-.25-.41-.6-.41-.98V1.4c0-.38.16-.73.41-.98C.66.16,1.01,0,1.4,0h2.69c.26,0,.47.21.47.47s-.21.47-.47.47H1.4c-.12,0-.24.05-.32.13-.08.08-.13.19-.13.32v7.21c0,.12.05.24.13.32.08.08.19.13.32.13h7.17c.12,0,.24-.05.32-.13s.13-.19.13-.32v-2.7h0ZM9.17,1.42l-4.76,4.81c-.18.18-.48.19-.67,0s-.19-.48,0-.66L8.31.95h-1.91c-.26,0-.47-.21-.47-.47S6.15,0,6.41,0h2.16c.42,0,.96-.07,1.28.25.2.2.16,1.83.13,2.78,0,.24-.01.43-.01.56,0,.26-.21.47-.47.47s-.47-.21-.47-.47c0-.03,0-.27.02-.59.01-.49.09-1.14.13-1.59h0Z"}]}]]}]]}],["$","$L12",null,{"className":"$undefined","tabNames":["TSX","CSS"],"fillSpace":true,"children":[["$","$L13","TSX",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$14"}]}]}],["$","$L13","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$15"}]}]}]]}]]}]]}],["$","div","jsApi",{"children":[["$","$L10",null,{"as":"button","className":"demo_trigger__3NPLi","children":"JavaScript API"}],["$","$L11",null,{"className":"demo_content__eRsYf","config":{"className":"demo_modal__oZYm_"},"children":[["$","p",null,{"className":"text-center","children":["Edit on"," ",["$","$Ld",null,{"target":"_blank","href":"https://codepen.io/AaylaSecura/pen/JojKdMr","children":["CodePen",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 10 10","className":"link_external__2MgzU","children":["$","path",null,{"fill":"var(--text-color)","d":"M9.02,5.91c0-.26.21-.47.47-.47s.47.21.47.47v2.7c0,.38-.16.73-.41.98s-.6.41-.99.41H1.4c-.38,0-.73-.16-.99-.41-.25-.25-.41-.6-.41-.98V1.4c0-.38.16-.73.41-.98C.66.16,1.01,0,1.4,0h2.69c.26,0,.47.21.47.47s-.21.47-.47.47H1.4c-.12,0-.24.05-.32.13-.08.08-.13.19-.13.32v7.21c0,.12.05.24.13.32.08.08.19.13.32.13h7.17c.12,0,.24-.05.32-.13s.13-.19.13-.32v-2.7h0ZM9.17,1.42l-4.76,4.81c-.18.18-.48.19-.67,0s-.19-.48,0-.66L8.31.95h-1.91c-.26,0-.47-.21-.47-.47S6.15,0,6.41,0h2.16c.42,0,.96-.07,1.28.25.2.2.16,1.83.13,2.78,0,.24-.01.43-.01.56,0,.26-.21.47-.47.47s-.47-.21-.47-.47c0-.03,0-.27.02-.59.01-.49.09-1.14.13-1.59h0Z"}]}]]}]]}],["$","$L12",null,{"className":"$undefined","tabNames":["JavaScript","HTML","CSS"],"fillSpace":true,"children":[["$","$L13","JavaScript",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"document.addEventListener(\"DOMContentLoaded\", () => {\n  const pager = document.getElementById(\"demo\");\n  const pages = pager.querySelectorAll(\".page\");\n  const switches = pager.querySelectorAll(\".switch\");\n  const prevSwitch = pager.querySelector(\".prev-switch\");\n  const nextSwitch = pager.querySelector(\".next-switch\");\n  new LISN.widgets.Pager(pager, {\n    pages,\n    switches,\n    prevSwitch,\n    nextSwitch,\n    horizontal: true,\n    useGestures: \"touch,wheel\",\n    alignGestureDirection: true,\n    preventDefault: false,\n  });\n});"}]}]}],["$","$L13","HTML",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$16"}]}]}],["$","$L13","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$17"}]}]}]]}]]}]]}],["$","div","htmlApi",{"children":[["$","$L10",null,{"as":"button","className":"demo_trigger__3NPLi","children":"HTML API"}],["$","$L11",null,{"className":"demo_content__eRsYf","config":{"className":"demo_modal__oZYm_"},"children":[["$","p",null,{"className":"text-center","children":["Edit on"," ",["$","$Ld",null,{"target":"_blank","href":"https://codepen.io/AaylaSecura/pen/yyLJNve?editors=1100","children":["CodePen",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 10 10","className":"link_external__2MgzU","children":["$","path",null,{"fill":"var(--text-color)","d":"M9.02,5.91c0-.26.21-.47.47-.47s.47.21.47.47v2.7c0,.38-.16.73-.41.98s-.6.41-.99.41H1.4c-.38,0-.73-.16-.99-.41-.25-.25-.41-.6-.41-.98V1.4c0-.38.16-.73.41-.98C.66.16,1.01,0,1.4,0h2.69c.26,0,.47.21.47.47s-.21.47-.47.47H1.4c-.12,0-.24.05-.32.13-.08.08-.13.19-.13.32v7.21c0,.12.05.24.13.32.08.08.19.13.32.13h7.17c.12,0,.24-.05.32-.13s.13-.19.13-.32v-2.7h0ZM9.17,1.42l-4.76,4.81c-.18.18-.48.19-.67,0s-.19-.48,0-.66L8.31.95h-1.91c-.26,0-.47-.21-.47-.47S6.15,0,6.41,0h2.16c.42,0,.96-.07,1.28.25.2.2.16,1.83.13,2.78,0,.24-.01.43-.01.56,0,.26-.21.47-.47.47s-.47-.21-.47-.47c0-.03,0-.27.02-.59.01-.49.09-1.14.13-1.59h0Z"}]}]]}]]}],["$","$L12",null,{"className":"$undefined","tabNames":["HTML","CSS"],"fillSpace":true,"children":[["$","$L13","HTML",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$18"}]}]}],["$","$L13","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$19"}]}]}]]}]]}]]}]]}]]}]]}]}],["$","$L1a",null,{}],["$","$L1b",null,{}]]
+}5:[["$","header",null,{"className":"","children":["$","div",null,{"className":"demo_header__0L3xe","children":[["$","$Ld",null,{"target":"_self","href":"/","children":["LISN.js",false]}],["$","div",null,{"className":"demo_menu__X_tlF","children":[["$","$Le",null,{"as":"button","className":"plain","config":{"hover":true},"children":"View code"}],["$","$Lf",null,{"config":{"position":"bottom-right"},"children":[["$","div","react",{"children":[["$","$L10",null,{"as":"button","className":"demo_trigger__3NPLi","children":"React"}],["$","$L11",null,{"className":"demo_content__eRsYf","config":{"className":"demo_modal__oZYm_"},"children":[["$","p",null,{"className":"text-center","children":["Edit on"," ",["$","$Ld",null,{"target":"_blank","href":"https://stackblitz.com/edit/lisnjs-demo-pager-carousel-react?file=src%2FApp.tsx","children":["StackBlitz",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 10 10","className":"link_external__2MgzU","children":["$","path",null,{"fill":"var(--text-color)","d":"M9.02,5.91c0-.26.21-.47.47-.47s.47.21.47.47v2.7c0,.38-.16.73-.41.98s-.6.41-.99.41H1.4c-.38,0-.73-.16-.99-.41-.25-.25-.41-.6-.41-.98V1.4c0-.38.16-.73.41-.98C.66.16,1.01,0,1.4,0h2.69c.26,0,.47.21.47.47s-.21.47-.47.47H1.4c-.12,0-.24.05-.32.13-.08.08-.13.19-.13.32v7.21c0,.12.05.24.13.32.08.08.19.13.32.13h7.17c.12,0,.24-.05.32-.13s.13-.19.13-.32v-2.7h0ZM9.17,1.42l-4.76,4.81c-.18.18-.48.19-.67,0s-.19-.48,0-.66L8.31.95h-1.91c-.26,0-.47-.21-.47-.47S6.15,0,6.41,0h2.16c.42,0,.96-.07,1.28.25.2.2.16,1.83.13,2.78,0,.24-.01.43-.01.56,0,.26-.21.47-.47.47s-.47-.21-.47-.47c0-.03,0-.27.02-.59.01-.49.09-1.14.13-1.59h0Z"}]}]]}]]}],["$","$L12",null,{"className":"$undefined","tabNames":["TSX","CSS"],"fillSpace":true,"children":[["$","$L13","TSX",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$14"}]}]}],["$","$L13","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$15"}]}]}]]}]]}]]}],["$","div","jsApi",{"children":[["$","$L10",null,{"as":"button","className":"demo_trigger__3NPLi","children":"JavaScript API"}],["$","$L11",null,{"className":"demo_content__eRsYf","config":{"className":"demo_modal__oZYm_"},"children":[["$","p",null,{"className":"text-center","children":["Edit on"," ",["$","$Ld",null,{"target":"_blank","href":"https://codepen.io/AaylaSecura/pen/JojKdMr","children":["CodePen",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 10 10","className":"link_external__2MgzU","children":["$","path",null,{"fill":"var(--text-color)","d":"M9.02,5.91c0-.26.21-.47.47-.47s.47.21.47.47v2.7c0,.38-.16.73-.41.98s-.6.41-.99.41H1.4c-.38,0-.73-.16-.99-.41-.25-.25-.41-.6-.41-.98V1.4c0-.38.16-.73.41-.98C.66.16,1.01,0,1.4,0h2.69c.26,0,.47.21.47.47s-.21.47-.47.47H1.4c-.12,0-.24.05-.32.13-.08.08-.13.19-.13.32v7.21c0,.12.05.24.13.32.08.08.19.13.32.13h7.17c.12,0,.24-.05.32-.13s.13-.19.13-.32v-2.7h0ZM9.17,1.42l-4.76,4.81c-.18.18-.48.19-.67,0s-.19-.48,0-.66L8.31.95h-1.91c-.26,0-.47-.21-.47-.47S6.15,0,6.41,0h2.16c.42,0,.96-.07,1.28.25.2.2.16,1.83.13,2.78,0,.24-.01.43-.01.56,0,.26-.21.47-.47.47s-.47-.21-.47-.47c0-.03,0-.27.02-.59.01-.49.09-1.14.13-1.59h0Z"}]}]]}]]}],["$","$L12",null,{"className":"$undefined","tabNames":["JavaScript","HTML","CSS"],"fillSpace":true,"children":[["$","$L13","JavaScript",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"document.addEventListener(\"DOMContentLoaded\", () => {\n  const pager = document.getElementById(\"demo\");\n  const pages = pager.querySelectorAll(\".page\");\n  const switches = pager.querySelectorAll(\".switch\");\n  const prevSwitch = pager.querySelector(\".prev-switch\");\n  const nextSwitch = pager.querySelector(\".next-switch\");\n  new LISN.widgets.Pager(pager, {\n    pages,\n    switches,\n    prevSwitch,\n    nextSwitch,\n    style: \"carousel\",\n    peek: true,\n    pageSize: 250,\n    horizontal: true,\n    parallax: true,\n    useGestures: \"touch,wheel\",\n    alignGestureDirection: true,\n    preventDefault: false,\n  });\n});"}]}]}],["$","$L13","HTML",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$16"}]}]}],["$","$L13","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$17"}]}]}]]}]]}]]}],["$","div","htmlApi",{"children":[["$","$L10",null,{"as":"button","className":"demo_trigger__3NPLi","children":"HTML API"}],["$","$L11",null,{"className":"demo_content__eRsYf","config":{"className":"demo_modal__oZYm_"},"children":[["$","p",null,{"className":"text-center","children":["Edit on"," ",["$","$Ld",null,{"target":"_blank","href":"https://codepen.io/AaylaSecura/pen/yyLJNve?editors=1100","children":["CodePen",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 10 10","className":"link_external__2MgzU","children":["$","path",null,{"fill":"var(--text-color)","d":"M9.02,5.91c0-.26.21-.47.47-.47s.47.21.47.47v2.7c0,.38-.16.73-.41.98s-.6.41-.99.41H1.4c-.38,0-.73-.16-.99-.41-.25-.25-.41-.6-.41-.98V1.4c0-.38.16-.73.41-.98C.66.16,1.01,0,1.4,0h2.69c.26,0,.47.21.47.47s-.21.47-.47.47H1.4c-.12,0-.24.05-.32.13-.08.08-.13.19-.13.32v7.21c0,.12.05.24.13.32.08.08.19.13.32.13h7.17c.12,0,.24-.05.32-.13s.13-.19.13-.32v-2.7h0ZM9.17,1.42l-4.76,4.81c-.18.18-.48.19-.67,0s-.19-.48,0-.66L8.31.95h-1.91c-.26,0-.47-.21-.47-.47S6.15,0,6.41,0h2.16c.42,0,.96-.07,1.28.25.2.2.16,1.83.13,2.78,0,.24-.01.43-.01.56,0,.26-.21.47-.47.47s-.47-.21-.47-.47c0-.03,0-.27.02-.59.01-.49.09-1.14.13-1.59h0Z"}]}]]}]]}],["$","$L12",null,{"className":"$undefined","tabNames":["HTML","CSS"],"fillSpace":true,"children":[["$","$L13","HTML",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$18"}]}]}],["$","$L13","CSS",{"className":"$undefined","children":["$","pre",null,{"children":["$","code",null,{"children":"$19"}]}]}]]}]]}]]}]]}]]}]]}]}],["$","$L1a",null,{}],["$","$L1b",null,{}]]
