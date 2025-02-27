@@ -1,4 +1,10 @@
-<!DOCTYPE html><html class="default" lang="en" data-base="."><head><meta charset="utf-8"/><meta http-equiv="x-ua-compatible" content="IE=edge"/><title>LISN.js</title><link rel="icon" href="assets/favicon.ico"/><meta name="description" content="Documentation for LISN.js"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="stylesheet" href="assets/style.css"/><link rel="stylesheet" href="assets/highlight.css"/><script defer src="assets/main.js"></script><script async src="assets/icons.js" id="tsd-icons-script"></script><script async src="assets/search.js" id="tsd-search-script"></script><script async src="assets/navigation.js" id="tsd-nav-script"></script><script async src="assets/hierarchy.js" id="tsd-hierarchy-script"></script></head><body><script>document.documentElement.dataset.theme = localStorage.getItem("tsd-theme") || "os";document.body.style.display="none";setTimeout(() => app?app.showPage():document.body.style.removeProperty("display"),500)</script><header class="tsd-page-toolbar"><div class="tsd-toolbar-contents container"><div class="table-cell" id="tsd-search"><div class="field"><label for="tsd-search-field" class="tsd-widget tsd-toolbar-icon search no-caption"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><use href="assets/icons.svg#icon-search"></use></svg></label><input type="text" id="tsd-search-field" aria-label="Search"/></div><div class="field"><div id="tsd-toolbar-links"></div></div><ul class="results"><li class="state loading">Preparing search index...</li><li class="state failure">The search index is not available</li></ul><a href="https://lisnjs.github.io" class="title">LISN.js</a></div><div class="table-cell" id="tsd-widgets"><a href="#" class="tsd-widget tsd-toolbar-icon menu no-caption" data-toggle="menu" aria-label="Menu"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><use href="assets/icons.svg#icon-menu"></use></svg></a></div></div></header><div class="container container-main"><div class="col-content"><div class="tsd-page-title"><h1>LISN.js</h1></div><div class="tsd-panel tsd-typography"><a id="contents" class="tsd-anchor"></a><h2 class="tsd-anchor-link">Contents<a href="#contents" aria-label="Permalink" class="tsd-anchor-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="assets/icons.svg#icon-anchor"></use></svg></a></h2><!-- toc -->
+<!DOCTYPE html><html class="default" lang="en" data-base="."><head><meta charset="utf-8"/><meta http-equiv="x-ua-compatible" content="IE=edge"/><title>LISN.js</title><link rel="icon" href="assets/favicon.ico"/><meta name="description" content="Documentation for LISN.js"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="stylesheet" href="assets/style.css"/><link rel="stylesheet" href="assets/highlight.css"/><script defer src="assets/main.js"></script><script async src="assets/icons.js" id="tsd-icons-script"></script><script async src="assets/search.js" id="tsd-search-script"></script><script async src="assets/navigation.js" id="tsd-nav-script"></script><script async src="assets/hierarchy.js" id="tsd-hierarchy-script"></script></head><body><script>document.documentElement.dataset.theme = localStorage.getItem("tsd-theme") || "os";document.body.style.display="none";setTimeout(() => app?app.showPage():document.body.style.removeProperty("display"),500)</script><header class="tsd-page-toolbar"><div class="tsd-toolbar-contents container"><div class="table-cell" id="tsd-search"><div class="field"><label for="tsd-search-field" class="tsd-widget tsd-toolbar-icon search no-caption"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><use href="assets/icons.svg#icon-search"></use></svg></label><input type="text" id="tsd-search-field" aria-label="Search"/></div><div class="field"><div id="tsd-toolbar-links"></div></div><ul class="results"><li class="state loading">Preparing search index...</li><li class="state failure">The search index is not available</li></ul><a href="https://lisnjs.github.io" class="title">LISN.js</a></div><div class="table-cell" id="tsd-widgets"><a href="#" class="tsd-widget tsd-toolbar-icon menu no-caption" data-toggle="menu" aria-label="Menu"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><use href="assets/icons.svg#icon-menu"></use></svg></a></div></div></header><div class="container container-main"><div class="col-content"><div class="tsd-page-title"><h1>LISN.js</h1></div><div class="tsd-panel tsd-typography"><div align="center">
+  <a href="https://lisnjs.github.io/"><img src="https://raw.githubusercontent.com/lisnjs/lisn.js/master/website/LISN%20logo.png" width="160" height="160" alt="LISN.js"></a>
+</div>
+<h2 align="center">
+ <a href="https://lisnjs.github.io/">Official site</a>&nbsp;|&nbsp;<a href="https://lisnjs.github.io/demos/">Demos</a>&nbsp;|&nbsp;<a href="https://lisnjs.github.io/docs/">Docs</a>
+</h2>
+<a id="contents" class="tsd-anchor"></a><h2 class="tsd-anchor-link">Contents<a href="#contents" aria-label="Permalink" class="tsd-anchor-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="assets/icons.svg#icon-anchor"></use></svg></a></h2><!-- toc -->
 <a id="intro" class="tsd-anchor"></a><h1 class="tsd-anchor-link">Intro<a href="#intro" aria-label="Permalink" class="tsd-anchor-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="assets/icons.svg#icon-anchor"></use></svg></a></h1><p>LISN.js is a flexible, full-featured and simple to use library for handling user
 gestures and interactions (like scrolling) as well as observing elements for
 changes in viewport position, size and so on.</p>
@@ -6,14 +12,37 @@ changes in viewport position, size and so on.</p>
 gestures, interactions and layout events. It makes it super simple and easy to
 implement any kind of scroll, view, size, layout or user gesture triggered
 actions or animations with minimal boilerplate, and even if you wish, with zero
-JavaScript, using the HTML-only mode. It also comes with many customizable
-widgets.</p>
-<p>There are React wrappers available as a separate package. It works in
+JavaScript, using the HTML-only mode (perfect for Wordpress for example!).</p>
+<ul>
+<li>100% vanilla TypeScript.</li>
+<li>No layout thrashing.</li>
+<li>Optimal performance.</li>
+<li>Server-side rendering.</li>
+<li>Flexible and customizable.</li>
+<li>Easy and simple to use.</li>
+<li>No dependencies.</li>
+<li>HTML-only mode.</li>
+</ul>
+<p>There are <strong>React wrappers</strong> available as a separate package. It works in
 server-side rendering environments like Next.js.</p>
-<p>LISN also comes with many awesome widgets, like collapsible, floating popup, modal,
-offcanvas menu, pager (carousel/slider/tabs), flex same-height, scrollbars
-(native scrolling), sortable, scroll-to-top button and page loader.</p>
-<p><strong>This documentation is for the vanilla JavaScript package. React documentation coming soon!</strong></p>
+<p>LISN also comes with many awesome widgets, like:</p>
+<ul>
+<li>Collapsible</li>
+<li>Floating popup/tooltip</li>
+<li>Modal</li>
+<li>Offcanvas menu</li>
+<li>Pager (carousel/slider/tabs)</li>
+<li>Flex same-height</li>
+<li>Scrollbars (native scrolling)</li>
+<li>Sortable</li>
+<li>Auto-hide/remove matching elements</li>
+<li>Scroll-to-top button</li>
+<li>Page loader</li>
+</ul>
+<p>Coming soon:</p>
+<ul>
+<li>SmoothScroller (native scroll)</li>
+</ul>
 <a id="basic-concepts" class="tsd-anchor"></a><h1 class="tsd-anchor-link">Basic concepts<a href="#basic-concepts" aria-label="Permalink" class="tsd-anchor-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="assets/icons.svg#icon-anchor"></use></svg></a></h1><p>LISN's basic blocks include watchers, triggers, actions and widgets.</p>
 <a id="watchers" class="tsd-anchor"></a><h2 class="tsd-anchor-link">Watchers<a href="#watchers" aria-label="Permalink" class="tsd-anchor-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="assets/icons.svg#icon-anchor"></use></svg></a></h2><p>These are the base classes that allow you to lisn for various events or user
 gestures and run callbacks. They are highly configurable and most flexible. Many
