@@ -23,30 +23,30 @@
         <div class='clearfix'>
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">91.77% </span>
+                <span class="strong">91.79% </span>
                 <span class="quiet">Statements</span>
-                <span class='fraction'>424/462</span>
+                <span class='fraction'>425/463</span>
             </div>
         
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">80.37% </span>
+                <span class="strong">80.76% </span>
                 <span class="quiet">Branches</span>
-                <span class='fraction'>127/158</span>
+                <span class='fraction'>126/156</span>
             </div>
         
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">87.35% </span>
+                <span class="strong">87.5% </span>
                 <span class="quiet">Functions</span>
-                <span class='fraction'>76/87</span>
+                <span class='fraction'>77/88</span>
             </div>
         
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">91.55% </span>
+                <span class="strong">91.53% </span>
                 <span class="quiet">Lines</span>
-                <span class='fraction'>412/450</span>
+                <span class='fraction'>411/449</span>
             </div>
         
             
@@ -2500,8 +2500,7 @@
 <a name='L2435'></a><a href='#L2435'>2435</a>
 <a name='L2436'></a><a href='#L2436'>2436</a>
 <a name='L2437'></a><a href='#L2437'>2437</a>
-<a name='L2438'></a><a href='#L2438'>2438</a>
-<a name='L2439'></a><a href='#L2439'>2439</a></td><td class="line-coverage quiet"><span class="cline-any cline-neutral">&nbsp;</span>
+<a name='L2438'></a><a href='#L2438'>2438</a></td><td class="line-coverage quiet"><span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -2545,12 +2544,12 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-yes">93x</span>
 <span class="cline-any cline-yes">93x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">93x</span>
 <span class="cline-any cline-yes">93x</span>
 <span class="cline-any cline-yes">93x</span>
 <span class="cline-any cline-yes">93x</span>
@@ -2803,6 +2802,12 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-yes">47x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -4318,18 +4323,13 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-yes">71x</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-yes">28x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-yes">93x</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -4345,8 +4345,6 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-yes">108x</span>
 <span class="cline-any cline-yes">15x</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-yes">15x</span>
 <span class="cline-any cline-yes">15x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -4982,13 +4980,13 @@ import {
   moveElementNow,
   replaceElementNow,
   getOrAssignID,
+  createWrapperFor,
 } from "@lisn/utils/dom-alter";
 import { waitForInteractive } from "@lisn/utils/dom-events";
 import {
   waitForMeasureTime,
   waitForMutateTime,
 } from "@lisn/utils/dom-optimize";
-import { isInlineTag } from "@lisn/utils/dom-query";
 import { addEventListenerTo, removeEventListenerFrom } from "@lisn/utils/event";
 import { logError } from "@lisn/utils/log";
 import { keyWithMaxVal } from "@lisn/utils/math";
@@ -5034,8 +5032,8 @@ export type OpenableCreateFn&lt;Config extends Record&lt;string, unknown&gt;&gt;
  * `.lisn-&lt;name&gt;`).
  *
  * The name you specify here should generally be the same name you pass in
- * {@link OpenableProperties.name | options.name} to the
- * {@link Openable.constructor} but it does not need to be the same.
+ * {@link OpenableConfig.name | options.name} to the {@link Openable.constructor}
+ * but it does not need to be the same.
  *
  * @param name            The name of the openable. Should be in kebab-case.
  * @param newOpenable     Called for every element matching the selector.
@@ -5155,10 +5153,10 @@ export abstract class Openable extends Widget {
     return instances.get(element) ?? null;
   }
 &nbsp;
-  constructor(element: HTMLElement, properties: OpenableProperties) {
+  constructor(element: HTMLElement, config: OpenableConfig) {
     super(element);
 &nbsp;
-    const { isModal, isOffcanvas } = properties;
+    const { isModal, isOffcanvas } = config;
 &nbsp;
     const openCallbacks = MH.newSet&lt;WidgetCallback&gt;();
     const closeCallbacks = MH.newSet&lt;WidgetCallback&gt;();
@@ -5243,14 +5241,14 @@ export abstract class Openable extends Widget {
     const { root, container, triggers, outerWrapper } = setupElements(
       this,
       element,
-      properties,
+      config,
     );
   }
 }
 &nbsp;
 /**
  * Per-trigger based configuration. Can either be given as an object as the
- * value of the {@link OpenableProperties.triggers} map, or it can be set as a
+ * value of the {@link OpenableConfig.triggers} map, or it can be set as a
  * string configuration in the `data-lisn-&lt;name&gt;-trigger` data attribute. See
  * {@link getWidgetConfig} for the syntax.
  *
@@ -5288,7 +5286,7 @@ export type OpenableTriggerConfig = {
   className?: string[] | string;
 &nbsp;
   /**
-   * Override the widget's {@link OpenableProperties.autoClose} for this trigger.
+   * Override the widget's {@link OpenableConfig.autoClose} for this trigger.
    *
    * @defaultValue undefined // Widget default
    */
@@ -5297,7 +5295,7 @@ export type OpenableTriggerConfig = {
   /**
    * Open the openable when this trigger is hovered.
    *
-   * If the device is touch and {@link OpenableProperties.autoClose} is enabled,
+   * If the device is touch and {@link OpenableConfig.autoClose} is enabled,
    * the widget will be closed shortly after the pointer leaves both the
    * trigger and the root element.
    *
@@ -5345,7 +5343,7 @@ export type OpenableTriggerConfig = {
 /**
  * @interface
  */
-export type OpenableProperties = {
+export type OpenableConfig = {
   /**
    * The name of the _type_ of the openable. Will set the class prefix to
    * `lisn-&lt;name&gt;`.
@@ -5441,6 +5439,12 @@ export type OpenableProperties = {
    */
   onSetup?: () =&gt; void;
 };
+&nbsp;
+/**
+ * @interface
+ * @deprecated
+ */
+export type OpenableProperties = OpenableConfig;
 &nbsp;
 /* ********************
  * Collapsible
@@ -5612,7 +5616,7 @@ export class Collapsible extends Openable {
   static register() {
     registerOpenable(
       WIDGET_NAME_COLLAPSIBLE,
-      (el, config) =&gt; new Collapsible(el, config),
+      (element, config) =&gt; new Collapsible(element, config),
       collapsibleConfigValidator,
     );
   }
@@ -5985,7 +5989,7 @@ export class Popup extends Openable {
   static register() {
     registerOpenable(
       WIDGET_NAME_POPUP,
-      (el, config) =&gt; new Popup(el, config),
+      (element, config) =&gt; new Popup(element, config),
       popupConfigValidator,
     );
   }
@@ -6245,7 +6249,7 @@ export class Modal extends Openable {
   static register() {
     registerOpenable(
       WIDGET_NAME_MODAL,
-      (el, config) =&gt; new Modal(el, config),
+      (element, config) =&gt; new Modal(element, config),
       modalConfigValidator,
     );
   }
@@ -6475,7 +6479,7 @@ export class Offcanvas extends Openable {
   static register() {
     registerOpenable(
       WIDGET_NAME_OFFCANVAS,
-      (el, config) =&gt; new Offcanvas(el, config),
+      (element, config) =&gt; new Offcanvas(element, config),
       offcanvasConfigValidator,
     );
   }
@@ -6752,13 +6756,11 @@ const findTriggers = (
     ];
   } else if (container) {
     triggers = [
-      ...MH.arrayFrom(
-        MH.querySelectorAll(
-          container,
-          getTriggerSelector(`:not([data-${prefixedNames._contentId}])`),
-        ),
-      ).filter((t) =&gt; !content.contains(t)),
-    ];
+      ...MH.querySelectorAll(
+        container,
+        getTriggerSelector(`:not([data-${prefixedNames._contentId}])`),
+      ),
+    ].filter((t) =&gt; !content.contains(t));
   }
 &nbsp;
   return triggers;
@@ -6766,25 +6768,20 @@ const findTriggers = (
 &nbsp;
 const getTriggersFrom = (
   content: Element,
-  inputTriggers:
-    | Element[]
-    | Map&lt;Element, OpenableTriggerConfig | null&gt;
-    | undefined,
+  inputTriggers: OpenableConfig["triggers"],
   wrapTriggers: boolean,
   prefixedNames: ReturnType&lt;typeof getPrefixedNames&gt;,
 ) =&gt; {
   const triggerMap = MH.newMap&lt;Element, OpenableTriggerConfig&gt;();
 &nbsp;
-  inputTriggers = inputTriggers || findTriggers(content, prefixedNames);
+  inputTriggers = inputTriggers ?? findTriggers(content, prefixedNames);
 &nbsp;
   const addTrigger = (
     trigger: Element,
     triggerConfig: OpenableTriggerConfig,
   ) =&gt; {
     if (wrapTriggers) {
-      const wrapper = MH.createElement(
-        isInlineTag(MH.tagName(trigger)) ? <span class="branch-0 cbranch-no" title="branch not covered" >"span" </span>: "div",
-      );
+      const wrapper = createWrapperFor(trigger);
       wrapElement(trigger, { wrapper, ignoreMove: true }); // no need to await
       trigger = wrapper;
     }
@@ -6817,15 +6814,15 @@ const getTriggersFrom = (
 const setupElements = (
   widget: Openable,
   content: HTMLElement,
-  properties: OpenableProperties,
+  config: OpenableConfig,
 ): ElementsCollection =&gt; {
-  const prefixedNames = getPrefixedNames(properties.name);
+  const prefixedNames = getPrefixedNames(config.name);
   const container = findContainer(content, prefixedNames._containerForSelect);
 &nbsp;
-  const wrapTriggers = properties.wrapTriggers ?? false;
+  const wrapTriggers = config.wrapTriggers ?? false;
   const triggers = getTriggersFrom(
     content,
-    properties.triggers,
+    config.triggers,
     wrapTriggers,
     prefixedNames,
   );
@@ -6844,7 +6841,7 @@ const setupElements = (
   // was.
   let root: HTMLElement;
   let placeholder: HTMLElement;
-  if (properties.isOffcanvas) {
+  if (config.isOffcanvas) {
     addClasses(outerWrapper, prefixedNames._outerWrapper);
     root = wrapElementNow(outerWrapper);
     placeholder = MH.createElement("div");
@@ -6857,18 +6854,18 @@ const setupElements = (
     root = placeholder = outerWrapper;
   }
 &nbsp;
-  if (properties.id) {
-    root.id = properties.id;
+  if (config.id) {
+    root.id = config.id;
   }
 &nbsp;
-  if (properties.className) {
-    addClassesNow(root, ...toArrayIfSingle(properties.className));
+  if (config.className) {
+    addClassesNow(root, ...toArrayIfSingle(config.className));
   }
 &nbsp;
   unsetBooleanData(root, PREFIX_IS_OPEN);
-  const domID = getOrAssignID(root, properties.name);
+  const domID = getOrAssignID(root, config.name);
 &nbsp;
-  if (properties.isModal) {
+  if (config.isModal) {
     MH.setAttr(root, MC.S_ROLE, "dialog");
     MH.setAttr(root, S_ARIA_MODAL);
   }
@@ -6877,7 +6874,7 @@ const setupElements = (
   disableInitialTransition(root);
 &nbsp;
   // Add a close button?
-  if (properties.closeButton) {
+  if (config.closeButton) {
     const closeBtn = MH.createButton("Close");
     addClasses(closeBtn, PREFIX_CLOSE_BTN);
 &nbsp;
@@ -6887,7 +6884,7 @@ const setupElements = (
 <span class="cstat-no" title="statement not covered" >      widget.close();</span>
     });
 &nbsp;
-    moveElement(closeBtn, { to: properties.isOffcanvas ? root : <span class="branch-1 cbranch-no" title="branch not covered" >innerWrapper </span>});
+    moveElement(closeBtn, { to: config.isOffcanvas ? root : <span class="branch-1 cbranch-no" title="branch not covered" >innerWrapper </span>});
   }
 &nbsp;
   // Transfer the relevant classes/data attrs from content to root element, so
@@ -6986,7 +6983,7 @@ const setupElements = (
         addClassesNow(container, prefixedNames._container);
       }
 &nbsp;
-      if (properties.isOffcanvas) {
+      if (config.isOffcanvas) {
         moveElementNow(root, {
           to: MH.getBody(),
           ignoreMove: true,
@@ -7027,10 +7024,10 @@ const setupElements = (
         }
       }
 &nbsp;
-      setupListeners(widget, elements, properties, prefixedNames);
+      setupListeners(widget, elements, config, prefixedNames);
 &nbsp;
-      if (properties.onSetup) {
-        properties.onSetup();
+      if (config.onSetup) {
+        config.onSetup();
       }
     });
 &nbsp;
@@ -7040,7 +7037,7 @@ const setupElements = (
 const setupListeners = (
   widget: Openable,
   elements: ElementsCollection,
-  properties: OpenableProperties,
+  config: OpenableConfig,
   prefixedNames: ReturnType&lt;typeof getPrefixedNames&gt;,
 ) =&gt; {
   const { content, root, triggers } = elements;
@@ -7054,7 +7051,7 @@ const setupListeners = (
 &nbsp;
   const isTrigger = <span class="fstat-no" title="function not covered" >(e</span>lement: Element) =&gt;
 <span class="cstat-no" title="statement not covered" >    MH.includes(</span>
-      MH.arrayFrom(triggers.keys()),
+      [...triggers.keys()],
       element.closest(getDefaultWidgetSelector(prefixedNames._trigger)),
     );
 &nbsp;
@@ -7064,7 +7061,7 @@ const setupListeners = (
   const usesHover = (trigger: Element) =&gt; triggers.get(trigger)?.hover;
 &nbsp;
   const usesAutoClose = (trigger: Element | null) =&gt;
-    (trigger ? triggers.get(trigger)?.autoClose : null) ?? properties.autoClose;
+    (trigger ? triggers.get(trigger)?.autoClose : null) ?? config.autoClose;
 &nbsp;
   // ----------
 &nbsp;
@@ -7144,7 +7141,7 @@ const setupListeners = (
         // use a delay that allows the mouse to move from trigger to content
         // without closing it
         // TODO make this user-configurable
-        properties.isOffcanvas ? 300 : 50,
+        config.isOffcanvas ? 300 : 50,
       );
     }
   };
@@ -7384,7 +7381,7 @@ const fetchPopupPlacement = async (
             <div class='footer quiet pad2 space-top1 center small'>
                 Code coverage generated by
                 <a href="https://istanbul.js.org/" target="_blank" rel="noopener noreferrer">istanbul</a>
-                at 2025-07-21T09:21:29.830Z
+                at 2025-07-21T16:36:19.829Z
             </div>
         <script src="../prettify.js"></script>
         <script>
