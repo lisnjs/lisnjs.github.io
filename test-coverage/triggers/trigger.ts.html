@@ -23,9 +23,9 @@
         <div class='clearfix'>
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">94.28% </span>
+                <span class="strong">94.33% </span>
                 <span class="quiet">Statements</span>
-                <span class='fraction'>99/105</span>
+                <span class='fraction'>100/106</span>
             </div>
         
             
@@ -44,9 +44,9 @@
         
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">94.89% </span>
+                <span class="strong">94.94% </span>
                 <span class="quiet">Lines</span>
-                <span class='fraction'>93/98</span>
+                <span class='fraction'>94/99</span>
             </div>
         
             
@@ -524,7 +524,22 @@
 <a name='L459'></a><a href='#L459'>459</a>
 <a name='L460'></a><a href='#L460'>460</a>
 <a name='L461'></a><a href='#L461'>461</a>
-<a name='L462'></a><a href='#L462'>462</a></td><td class="line-coverage quiet"><span class="cline-any cline-neutral">&nbsp;</span>
+<a name='L462'></a><a href='#L462'>462</a>
+<a name='L463'></a><a href='#L463'>463</a>
+<a name='L464'></a><a href='#L464'>464</a>
+<a name='L465'></a><a href='#L465'>465</a>
+<a name='L466'></a><a href='#L466'>466</a>
+<a name='L467'></a><a href='#L467'>467</a></td><td class="line-coverage quiet"><span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -875,12 +890,6 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-yes">93x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -968,6 +977,7 @@
 <span class="cline-any cline-yes">93x</span>
 <span class="cline-any cline-yes">93x</span>
 <span class="cline-any cline-yes">93x</span>
+<span class="cline-any cline-yes">93x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-yes">93x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -996,7 +1006,8 @@
  * A trigger specification should be given as a
  * `data-lisn-on-&lt;TriggerName&gt;="&lt;TriggerSpecList&gt;"` attribute.
  * A fallback option of using a CSS class of the form
- * `lisn-on-&lt;TriggerName&gt;--&lt;TriggerSpec&gt;` is also supported but not recommended.
+ * `lisn-on-&lt;TriggerName&gt;--&lt;TriggerSpec&gt;` is also supported if needed but is not
+ * recommended and may be deprecated in future.
  *
  * The general specification for a trigger is of the form:
  *
@@ -1011,25 +1022,32 @@
  *     &lt;BooleanOptionName&gt; [ "=" ( "false" | "true" ) ] |
  *     &lt;OptionName&gt; "=" &lt;OptionValue&gt;
  *
- * &lt;ActionSpec&gt; ::= &lt;ActionName&gt; [ ":" &lt;ActionArgOrOption&gt; { "," &lt;ActionArgOrOption&gt; } ]
+ * &lt;ActionSpec&gt; ::= &lt;ActionName&gt; [ ":" &lt;ActionArgsAndOptions&gt; ]
  *
- * &lt;ActionArgOrOption&gt; ::= &lt;ActionArg&gt; | &lt;OptionName&gt; "=" &lt;OptionValue&gt;
+ * &lt;ActionArgsAndOptions&gt; ::= &lt;ActionArgs&gt; [ "," &lt;ActionOptions&gt; ] |
+ *                            &lt;ActionOptions&gt;
+ *
+ * &lt;ActionArgs&gt; ::= &lt;Arg&gt; { "," &lt;Arg&gt; }
+ *
+ * &lt;ActionOptions&gt; ::= &lt;OptionName&gt; = &lt;OptionValue&gt; { "," &lt;OptionName&gt; = &lt;OptionValue&gt; }
  * ```
  *
- * where `&lt;TriggerArg&gt;` is the particular trigger's main argument, which could
- * be required or optional (and not all triggers accept an argument). See each
- * trigger's specification for their arguments and options.
- *
- * Also refer to each action for their accepted arguments and/or options if any.
+ * Some triggers or actions accept both arguments as well as `=` separated
+ * key=value options. Some accept only arguments or only options. See each
+ * trigger or actions's specification for their accepted or required arguments
+ * and options. When specifying action arguments and options, place the
+ * arguments first.
  *
  * **NOTE:**
  *
  * There can be 0 or more spaces around any of the separator characters.
  *
- * At least one action (with a preceding "@" character) is always required.
+ * At least one action (with a preceding `@` character) is always required.
  *
  * The characters `;`, `,`, `=`, `@`, `+` and `:` are reserved separators and
  * cannot be used literally as part of an argument or option value.
+ *
+ * See documentation on a specific trigger or action for examples.
  *
  * @module Triggers
  *
@@ -1038,6 +1056,8 @@
  * custom triggers and it also registers a trigger that needs to be run
  * manually (by e.g. the {@link Actions.Run | Run} action).
  */
+&nbsp;
+// [TODO v2]: Perhaps remove support for trigger spec as part of CSS classes?
 &nbsp;
 import * as MC from "@lisn/globals/minification-constants";
 import * as MH from "@lisn/globals/minification-helpers";
@@ -1316,14 +1336,8 @@ export type TriggerCreateFn&lt;Config extends TriggerConfig&gt; = (
  * Registers the given trigger as a widget to be automatically configured for
  * all elements that have a trigger specification with the given name.
  *
- * A trigger specification can be given as a
- * `data-lisn-on-&lt;TriggerName&gt;="&lt;TriggerSpec&gt; { ";" &lt;TriggerSpec&gt; }"` attribute
- * or as one or more `lisn-on-&lt;TriggerName&gt;--&lt;TriggerSpec&gt;` classes.
- *
- * See the top of the {@link Triggers} page for an explanation of `&lt;TriggerSpec&gt;`.
- *
- * Using classes instead of attributes is not recommended and only available as
- * a fallback option.
+ * See the {@link Triggers} page for an explanation of the string specification
+ * syntax.
  *
  * **IMPORTANT:** If a trigger by that name is already registered, the current
  * call does nothing, even if the remaining arguments differ.
@@ -1358,7 +1372,7 @@ export const registerTrigger = &lt;Config extends TriggerConfig = TriggerConfig&
 &nbsp;
     const allSpecs = splitOn(
       getData(element, MH.prefixName(`on-${name}`)) ?? "",
-      TRIGGER_SEP,
+      TRIGGER_SEP_CHAR,
       true,
     );
 &nbsp;
@@ -1372,7 +1386,7 @@ export const registerTrigger = &lt;Config extends TriggerConfig = TriggerConfig&
       const [tmp, configSpec] = splitOn(spec, OPTION_PREF_CHAR, true, 1);
       const [argSpec, allActionSpecs] = splitOn(tmp, ACTION_PREF_CHAR, true, 1);
 &nbsp;
-      const args = MH.filterBlank(splitOn(argSpec, ",", true)) || [];
+      const args = MH.filterBlank(splitOn(argSpec, ARGS_SEP_CHAR, true)) || [];
 &nbsp;
       const config = await fetchWidgetConfig(
         configSpec,
@@ -1425,7 +1439,8 @@ export const registerTrigger = &lt;Config extends TriggerConfig = TriggerConfig&
 &nbsp;
 // --------------------
 &nbsp;
-const TRIGGER_SEP = ";";
+const TRIGGER_SEP_CHAR = ";";
+const ARGS_SEP_CHAR = ",";
 const OPTION_PREF_CHAR = "+";
 const ACTION_PREF_CHAR = "@";
 const ACTION_ARGS_PREF_CHAR = ":";
@@ -1453,7 +1468,7 @@ const newBaseConfigValidator: WidgetConfigValidatorFunc&lt;TriggerConfig&gt; = (
             <div class='footer quiet pad2 space-top1 center small'>
                 Code coverage generated by
                 <a href="https://istanbul.js.org/" target="_blank" rel="noopener noreferrer">istanbul</a>
-                at 2025-07-21T16:36:19.829Z
+                at 2025-08-12T17:38:45.425Z
             </div>
         <script src="../prettify.js"></script>
         <script>

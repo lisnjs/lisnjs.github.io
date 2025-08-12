@@ -1005,7 +1005,7 @@ import { WidgetConfigValidatorFunc } from "@lisn/widgets/widget";
  * specification.
  *
  * - Arguments: none
- * - Additional trigger options: none
+ * - Additional trigger options (see {@link PointerTriggerConfig}):
  *   - `target`: A string element specification.
  *     See {@link Utils.getReferenceElement | getReferenceElement}.
  *   - `prevent-default`: A boolean.
@@ -1017,14 +1017,14 @@ import { WidgetConfigValidatorFunc } from "@lisn/widgets/widget";
  * when clicked again (or even number of click);
  *
  * ```html
- * &lt;div data-lisn-on-click="@add-class=active,toggled-on"&gt;&lt;/div&gt;
+ * &lt;div data-lisn-on-click="@add-class: active,toggled-on"&gt;&lt;/div&gt;
  * ```
  *
  * @example
  * As above, but using a CSS class instead of data attribute:
  *
  * ```html
- * &lt;div class="lisn-on-click--@add-class=active,toggled-on"&gt;&lt;/div&gt;
+ * &lt;div class="lisn-on-click--@add-class: active,toggled-on"&gt;&lt;/div&gt;
  * ```
  *
  * @example
@@ -1041,7 +1041,7 @@ import { WidgetConfigValidatorFunc } from "@lisn/widgets/widget";
  * it.
  *
  * ```html
- * &lt;div data-lisn-on-click="@add-class=visited +once ;
+ * &lt;div data-lisn-on-click="@add-class: visited +once ;
  *                          @animate +delay=1000"
  * &gt;&lt;/div&gt;
  * ```
@@ -1053,7 +1053,7 @@ import { WidgetConfigValidatorFunc } from "@lisn/widgets/widget";
  * of clicks on the reference box element.
  *
  * ```html
- * &lt;div data-lisn-on-click="@add-class=c1,c2 @enable=my-trigger +target=next.box"
+ * &lt;div data-lisn-on-click="@add-class: c1,c2 @enable: my-trigger +target=next.box"
  *      data-lisn-on-run="@show +id=my-trigger"
  * &gt;&lt;/div&gt;
  * &lt;div class="box"&gt;&lt;/div&gt;
@@ -1063,7 +1063,7 @@ import { WidgetConfigValidatorFunc } from "@lisn/widgets/widget";
  * As above, but using `data-lisn-ref` attribute instead of class selector.
  *
  * ```html
- * &lt;div data-lisn-on-click="@add-class=c1,c2 @enable=my-trigger +target=next-box"
+ * &lt;div data-lisn-on-click="@add-class: c1,c2 @enable: my-trigger +target=next-box"
  *      data-lisn-on-run="@show +id=my-trigger"
  * &gt;&lt;/div&gt;
  * &lt;div data-lisn-ref="box"&gt;&lt;/div&gt;
@@ -1113,7 +1113,7 @@ export class ClickTrigger extends Trigger {
  * specification.
  *
  * - Arguments: none
- * - Additional trigger options: none
+ * - Additional trigger options (see {@link PointerTriggerConfig}):
  *   - `target`: A string element specification.
  *     See {@link Utils.getReferenceElement | getReferenceElement}.
  *   - `prevent-default`: boolean
@@ -1125,14 +1125,14 @@ export class ClickTrigger extends Trigger {
  * the mouse.
  *
  * ```html
- * &lt;div data-lisn-on-press="@add-class=active,pressed"&gt;&lt;/div&gt;
+ * &lt;div data-lisn-on-press="@add-class: active,pressed"&gt;&lt;/div&gt;
  * ```
  *
  * @example
  * As above, but using a CSS class instead of data attribute:
  *
  * ```html
- * &lt;div class="lisn-on-press--@add-class=active,pressed"&gt;&lt;/div&gt;
+ * &lt;div class="lisn-on-press--@add-class: active,pressed"&gt;&lt;/div&gt;
  * ```
  *
  * @example
@@ -1150,7 +1150,7 @@ export class ClickTrigger extends Trigger {
  * the mouse.
  *
  * ```html
- * &lt;div data-lisn-on-click="@add-class=pressed +once ;
+ * &lt;div data-lisn-on-click="@add-class: pressed +once ;
  *                          @animate +do-delay=100"
  * &gt;&lt;/div&gt;
  * ```
@@ -1163,7 +1163,7 @@ export class ClickTrigger extends Trigger {
  * reference box element.
  *
  * ```html
- * &lt;div data-lisn-on-press="@add-class=c1,c2 @enable=my-trigger +target=next.box"
+ * &lt;div data-lisn-on-press="@add-class: c1,c2 @enable: my-trigger +target=next.box"
  *      data-lisn-on-run="@show +id=my-trigger"
  * &gt;&lt;/div&gt;
  * &lt;div class="box"&gt;&lt;/div&gt;
@@ -1173,7 +1173,7 @@ export class ClickTrigger extends Trigger {
  * As above, but using `data-lisn-ref` attribute instead of class selector.
  *
  * ```html
- * &lt;div data-lisn-on-press="@add-class=c1,c2 @enable=my-trigger +target=next-box"
+ * &lt;div data-lisn-on-press="@add-class: c1,c2 @enable: my-trigger +target=next-box"
  *      data-lisn-on-run="@show +id=my-trigger"
  * &gt;&lt;/div&gt;
  * &lt;div data-lisn-ref="box"&gt;&lt;/div&gt;
@@ -1222,7 +1222,7 @@ export class PressTrigger extends Trigger {
  * specification.
  *
  * - Arguments: none
- * - Additional trigger options: none
+ * - Additional trigger options (see {@link PointerTriggerConfig}):
  *   - `target`: A string element specification.
  *     See {@link Utils.getReferenceElement | getReferenceElement}.
  *   - `prevent-default`: boolean
@@ -1233,14 +1233,14 @@ export class PressTrigger extends Trigger {
  * remove them otherwise.
  *
  * ```html
- * &lt;div data-lisn-on-hover="@add-class=active,hovered"&gt;&lt;/div&gt;
+ * &lt;div data-lisn-on-hover="@add-class: active,hovered"&gt;&lt;/div&gt;
  * ```
  *
  * @example
  * As above, but using a CSS class instead of data attribute:
  *
  * ```html
- * &lt;div class="lisn-on-press--@add-class=active,hovered"&gt;&lt;/div&gt;
+ * &lt;div class="lisn-on-press--@add-class: active,hovered"&gt;&lt;/div&gt;
  * ```
  *
  * @example
@@ -1258,7 +1258,7 @@ export class PressTrigger extends Trigger {
  * mouse leaves the element.
  *
  * ```html
- * &lt;div data-lisn-on-click="@add-class=hovered +once ;
+ * &lt;div data-lisn-on-click="@add-class: hovered +once ;
  *                          @animate +do-delay=100"
  * &gt;&lt;/div&gt;
  * ```
@@ -1270,7 +1270,7 @@ export class PressTrigger extends Trigger {
  * their pointing device (or finger) moves off the reference element.
  *
  * ```html
- * &lt;div data-lisn-on-hover="@add-class=c1,c2 @enable=my-trigger +target=next.box"
+ * &lt;div data-lisn-on-hover="@add-class: c1,c2 @enable: my-trigger +target=next.box"
  *      data-lisn-on-run="@show +id=my-trigger"
  * &gt;&lt;/div&gt;
  * &lt;div class="box"&gt;&lt;/div&gt;
@@ -1280,7 +1280,7 @@ export class PressTrigger extends Trigger {
  * As above, but using `data-lisn-ref` attribute instead of class selector.
  *
  * ```html
- * &lt;div data-lisn-on-hover="@add-class=c1,c2 @enable=my-trigger +target=next-box"
+ * &lt;div data-lisn-on-hover="@add-class: c1,c2 @enable: my-trigger +target=next-box"
  *      data-lisn-on-run="@show +id=my-trigger"
  * &gt;&lt;/div&gt;
  * &lt;div data-lisn-ref="box"&gt;&lt;/div&gt;
@@ -1405,7 +1405,7 @@ const setupWatcher = (
             <div class='footer quiet pad2 space-top1 center small'>
                 Code coverage generated by
                 <a href="https://istanbul.js.org/" target="_blank" rel="noopener noreferrer">istanbul</a>
-                at 2025-07-21T16:36:19.829Z
+                at 2025-08-12T17:38:45.425Z
             </div>
         <script src="../prettify.js"></script>
         <script>

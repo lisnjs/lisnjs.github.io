@@ -25,7 +25,7 @@
             <div class='fl pad1y space-right2'>
                 <span class="strong">100% </span>
                 <span class="quiet">Statements</span>
-                <span class='fraction'>141/141</span>
+                <span class='fraction'>143/143</span>
             </div>
         
             
@@ -46,7 +46,7 @@
             <div class='fl pad1y space-right2'>
                 <span class="strong">100% </span>
                 <span class="quiet">Lines</span>
-                <span class='fraction'>126/126</span>
+                <span class='fraction'>128/128</span>
             </div>
         
             
@@ -575,7 +575,16 @@
 <a name='L510'></a><a href='#L510'>510</a>
 <a name='L511'></a><a href='#L511'>511</a>
 <a name='L512'></a><a href='#L512'>512</a>
-<a name='L513'></a><a href='#L513'>513</a></td><td class="line-coverage quiet"><span class="cline-any cline-neutral">&nbsp;</span>
+<a name='L513'></a><a href='#L513'>513</a>
+<a name='L514'></a><a href='#L514'>514</a>
+<a name='L515'></a><a href='#L515'>515</a>
+<a name='L516'></a><a href='#L516'>516</a>
+<a name='L517'></a><a href='#L517'>517</a>
+<a name='L518'></a><a href='#L518'>518</a>
+<a name='L519'></a><a href='#L519'>519</a></td><td class="line-coverage quiet"><span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -887,22 +896,22 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">3278x</span>
+<span class="cline-any cline-yes">3185x</span>
 <span class="cline-any cline-yes">838x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">2440x</span>
+<span class="cline-any cline-yes">2347x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">2440x</span>
+<span class="cline-any cline-yes">2347x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">2440x</span>
-<span class="cline-any cline-yes">2440x</span>
+<span class="cline-any cline-yes">2347x</span>
+<span class="cline-any cline-yes">2347x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">2440x</span>
-<span class="cline-any cline-yes">2440x</span>
-<span class="cline-any cline-yes">2440x</span>
+<span class="cline-any cline-yes">2347x</span>
+<span class="cline-any cline-yes">2347x</span>
+<span class="cline-any cline-yes">2347x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-yes">122x</span>
 <span class="cline-any cline-yes">122x</span>
@@ -1043,7 +1052,7 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-yes">93x</span>
-<span class="cline-any cline-yes">1891x</span>
+<span class="cline-any cline-yes">1798x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -1068,10 +1077,13 @@
 <span class="cline-any cline-yes">24x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">192x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">93x</span>
 <span class="cline-any cline-yes">93x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">192x</span>
+<span class="cline-any cline-yes">93x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-yes">93x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -1092,14 +1104,15 @@
  *
  * The following describes the general syntax when using the HTML API for
  * automatic creation of widgets based on data attributes
- * ({@link Settings.settings.autoWidgets | settings.autoWidgets} must be true.
+ * {@link Settings.settings.autoWidgets | settings.autoWidgets} must be true.
  *
  * A widget specification should be given as a
  * `data-lisn-&lt;WidgetName&gt;="&lt;WidgetConfList&gt;"` attribute.
  *
  * Alternatively, if using all default configurations, you can simply add the
  * `lisn-&lt;WidgetName&gt;` CSS class. Specifying a configuration using CSS classes
- * is not currently possible for widgets, only triggers.
+ * is not currently possible for widgets, only for triggers (though it's
+ * discouraged).
  *
  * The general specification for a widget is of the form:
  *
@@ -1122,6 +1135,8 @@
  *
  * The characters `|`, `;`, `=` are reserved separators and cannot be used
  * literally as part of an option value.
+ *
+ * See documentation on a specific widget for examples.
  *
  * @module Widgets
  */
@@ -1386,7 +1401,7 @@ export type WidgetConfigValidator&lt;Config extends Record&lt;string, unknown&gt
  * @param [options.supportsMultiple]
  *                  If true, and if `configValidator` is given, then the
  *                  value of the element's widget specific data attribute
- *                  will be split on ";" and each one parsed individually
+ *                  will be split on `;` and each one parsed individually
  *                  as a configuration. Then the `newWidget` function will
  *                  be called once for each configuration.
  */
@@ -1432,7 +1447,7 @@ export const registerWidget = async &lt;Config extends Record&lt;string, unknown
 &nbsp;
           if (dataAttr !== null) {
             configSpecs.push(
-              ...(dataAttr ? splitOn(dataAttr, ";", true) : [""]),
+              ...(dataAttr ? splitOn(dataAttr, CONFIG_SEP_CHAR, true) : [""]),
             );
           }
         } else {
@@ -1487,7 +1502,7 @@ export const registerWidget = async &lt;Config extends Record&lt;string, unknown
  *     &lt;OptionName&gt; "=" &lt;OptionValue&gt;
  * ```
  *
- * By default, for widgets `&lt;separator&gt;` is "|".
+ * By default, for widgets `&lt;separator&gt;` is `|`.
  *
  * **NOTE:** If `input` is a string, option names will be converted from
  * kebab-case to camelCase.
@@ -1516,7 +1531,7 @@ export const registerWidget = async &lt;Config extends Record&lt;string, unknown
 export const getWidgetConfig = &lt;Config extends Record&lt;string, unknown&gt;&gt;(
   input: Record&lt;string, unknown&gt; | string | null | undefined,
   validator: WidgetConfigValidatorObject&lt;Config&gt;,
-  separator = "|",
+  separator = OPT_SEP_CHAR,
 ): Config =&gt; {
   const config = {} as Config;
   if (!(input instanceof Object)) {
@@ -1536,7 +1551,7 @@ export const getWidgetConfig = &lt;Config extends Record&lt;string, unknown&gt;&
 export const fetchWidgetConfig = async &lt;Config extends Record&lt;string, unknown&gt;&gt;(
   input: Record&lt;string, unknown&gt; | string | null | undefined,
   validator: WidgetConfigAsyncValidatorObject&lt;Config&gt;,
-  separator = "|",
+  separator = OPT_SEP_CHAR,
 ): Promise&lt;Config&gt; =&gt; {
   const config = {} as Config;
   const configPromises = getWidgetConfig&lt;{
@@ -1580,10 +1595,13 @@ export const fetchUniqueWidget = async &lt;W extends Widget&gt;(
   return widget;
 };
 &nbsp;
+// --------------------
+&nbsp;
+const CONFIG_SEP_CHAR = ";";
+const OPT_SEP_CHAR = "|";
+&nbsp;
 const instances = newXWeakMap&lt;Element, Map&lt;string, Widget&gt;&gt;(() =&gt; MH.newMap());
 const registeredWidgets = MH.newSet&lt;string&gt;();
-&nbsp;
-// --------------------
 &nbsp;
 const toOptionsObject = (
   input: string | null | undefined,
@@ -1606,7 +1624,7 @@ const toOptionsObject = (
             <div class='footer quiet pad2 space-top1 center small'>
                 Code coverage generated by
                 <a href="https://istanbul.js.org/" target="_blank" rel="noopener noreferrer">istanbul</a>
-                at 2025-07-21T16:36:19.829Z
+                at 2025-08-12T17:38:45.425Z
             </div>
         <script src="../prettify.js"></script>
         <script>
