@@ -107,6 +107,28 @@ svg { z-index: 99; position: fixed; border: 0px; top: 0px; right: 0; }
       The format is based on <a href="https://keepachangelog.com/en/1.0.0/">Keep a Changelog</a>
       and this project adheres to <a href="https://semver.org/">Semantic Versioning</a>.
     </p>
+    <h2 id="121---2025-08-12"><a class="anchor" aria-hidden="true" tabindex="-1" href="#121---2025-08-12"><span class="octicon octicon-link"></span></a>[1.2.1] - 2025-08-12</h2>
+    <ul>
+      <li>
+        FIXED: Content wrapping for scroll tracking: the wrapper it used wasn't
+        expanding width to accommodate its children, leading to it not detecting when
+        only the width of the content changed.
+      </li>
+      <li>
+        FIXED: Bug in newCriticallyDampedAnimationIterator where it couldn't be used
+        inside a for loop. Also, it now ends when reaching the target instead if being
+        never-ending.
+      </li>
+      <li>
+        CHANGED: Renamed types for consistency. Old names kept for backwards
+        compatibility.
+        <ul>
+          <li>OpenableProperties -> OpenableConfig</li>
+          <li>Offset -> Anchor</li>
+          <li>ScrollOffset -> ScrollOffsetSpec</li>
+        </ul>
+      </li>
+    </ul>
     <h2 id="12---2025-07-21"><a class="anchor" aria-hidden="true" tabindex="-1" href="#12---2025-07-21"><span class="octicon octicon-link"></span></a>[1.2] - 2025-07-21</h2>
     <ul>
       <li>
